@@ -3,14 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" timestamp="1514428624166">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1514437339011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/Example.cs" timestamp="1514625553276">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
+      <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622575472">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/TutorialSystems.cs" timestamp="1514438332573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/GameController.cs" timestamp="1514439269283">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Components/DebugMessageComponent.cs" timestamp="1514508046644">
         <mark key="[" line="6" column="0" />
@@ -28,36 +52,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/TutorialSystems.cs" timestamp="1514438332573">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" timestamp="1514428624166">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/GameController.cs" timestamp="1514439269283">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="24" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514621322420">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
