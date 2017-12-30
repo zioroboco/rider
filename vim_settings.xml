@@ -12,11 +12,11 @@
       <file name="/Dummy.txt" timestamp="1514437339011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514621322420">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622575472">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
         <mark key="'" line="27" column="0" />
@@ -36,7 +36,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/PlayModeTest.cs" timestamp="1514619327455" />
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Components/DebugMessageComponent.cs" timestamp="1514508046644">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
