@@ -1,0 +1,138 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" timestamp="1514428624166">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1514437339011">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514619302955">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/TutorialSystems.cs" timestamp="1514438332573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/GameController.cs" timestamp="1514439269283">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/PlayModeTest.cs" timestamp="1514619327455" />
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Components/DebugMessageComponent.cs" timestamp="1514508046644">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DingSystem.cs" timestamp="1514438052334">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="43" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="29" column="2" filename="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>w</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEFkZChuZXcgRGluZ1N5c3RlbShjb250ZXh0cykpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIGNoZWNrIHRvIG1ha2Ugc3VyZSB0aGUgZW50aXR5IGhhc24ndCBiZWVuIGFsdGVyZWQgaW4gYSBkaWZmZXJlbnQgc3lzdGVtCiAgICByZXR1cm4gZW50aXR5Lmhhc0RlYnVnTWVzc2FnZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmUuRXhwZXJpbWVudGFsLlVJRWxlbWVudHM7CnVzaW5nIFZhbHZlLlZSOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIElWUkFwcGxpY2F0aW9ucy5fR2V0QXBwbGljYXRpb25zVGhhdFN1cHBvcnRNaW1lVHkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIENhbGxiYWNrRXZlbnRIYW5kbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG9rCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>s</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed TAB</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
