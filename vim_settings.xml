@@ -47,6 +47,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1514872272136">
+        <mark key="'" line="13" column="30" />
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+        <mark key="^" line="13" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DingSystem.cs" timestamp="1514438052334">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="48" />
@@ -64,43 +71,44 @@
       <jump line="29" column="2" filename="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
+      <jump line="13" column="30" filename="$USER_HOME$/Limbo/Assets/Nucleon.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuR2V0VHlwZSgpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEFkZChuZXcgRGluZ1N5c3RlbShjb250ZXh0cykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuR2V0VHlwZSgpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuR2V0VHlwZSgpOwogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENhbGxDb252VGhpc2NhbGwgaXMgYSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNoZWNrIHRvIG1ha2Ugc3VyZSB0aGUgZW50aXR5IGhhc24ndCBiZWVuIGFsdGVyZWQgaW4gYSBkaWZmZXJlbnQgc3lzdGVtCiAgICByZXR1cm4gZW50aXR5Lmhhc0RlYnVnTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmUuRXhwZXJpbWVudGFsLlVJRWxlbWVudHM7CnVzaW5nIFZhbHZlLlZSOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIElWUkFwcGxpY2F0aW9ucy5fR2V0QXBwbGljYXRpb25zVGhhdFN1cHBvcnRNaW1lVHkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENhbGxiYWNrRXZlbnRIYW5kbAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -137,6 +145,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
