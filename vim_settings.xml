@@ -3,14 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1514437339011">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/TutorialSystems.cs" timestamp="1514438332573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1514951726432">
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="13" column="69" />
+        <mark key="." line="13" column="69" />
+        <mark key="^" line="13" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" timestamp="1514428624166">
         <mark key="'" line="29" column="2" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1514437339011">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622910798">
         <mark key="[" line="8" column="0" />
@@ -18,17 +30,18 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Limbo/Assets/Plugins/UniRx/Scripts/System/Unit.cs" timestamp="1514951319785" />
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/TutorialSystems.cs" timestamp="1514438332573">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Limbo/Assets/AttractionForce.cs" timestamp="1514952077996">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/GameController.cs" timestamp="1514439269283">
         <mark key="[" line="2" column="0" />
@@ -46,13 +59,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1514872272136">
-        <mark key="'" line="13" column="30" />
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="60" />
-        <mark key="." line="13" column="60" />
-        <mark key="^" line="13" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DingSystem.cs" timestamp="1514438052334">
         <mark key="[" line="13" column="49" />
@@ -75,31 +81,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFkZChuZXcgRGluZ1N5c3RlbShjb250ZXh0cykpOwo=</text>
+        <text encoding="base64">ICAgIE9ic2VydmFibGVGaXhlZFVwZGF0ZVRyaWdnZXIuRml4ZWRVcGRhdGVBc09ic2VydmFibGUoKS5TdWJzY3JpYmUoXyA9PiBBZGRGb3JjZVRvQm9keShfYm9keSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">W10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
@@ -108,7 +114,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
