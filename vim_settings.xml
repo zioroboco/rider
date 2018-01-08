@@ -12,8 +12,6 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/WebResources.cs" timestamp="1515368231513" />
-      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/BrowserNative.cs" timestamp="1515369583805" />
       <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1514951726432">
         <mark key="[" line="13" column="64" />
         <mark key="]" line="13" column="69" />
@@ -84,6 +82,12 @@
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="48" />
       </file>
+      <file name="$USER_HOME$/Limbo/Assets/Plugins/UniRx/Examples/Sample12_ReactiveProperty.cs" timestamp="1515406005786">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -100,40 +104,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFZlY3RvcjNbXSBfcG9pbnRDaGFyZ2VzID0gbmV3IFZlY3RvcjNbXSgpOwo=</text>
+        <text encoding="base64">dXNpbmcgVW5pUnguVHJpZ2dlcnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>l</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpZiAodGFyZ2V0ID09IEJ1aWxkVGFyZ2V0LlN0YW5kYWxvbmVPU1hJbnRlbCB8fCB0YXJnZXQgPT0gQnVpbGRUYXJnZXQuU3RhbmRhbG9uZU9TWCkgewo=</text>
+        <text encoding="base64">dXNpbmcgVW5pUnguVHJpZ2dlcnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFZlY3RvcjNbXSBfcG9pbnRDaGFyZ2VzID0gbmV3IFZlY3RvcjNbXSgpOwo=</text>
+        <text encoding="base64">dXNpbmcgVW5pUnguVHJpZ2dlcnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFZlY3RvcjNbXSBfcG9pbnRDaGFyZ2VzID0gbmV3IFZlY3RvcjNbXSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlicm93c2VyLmFsbG93Q29udGV4dE1lbnVPbihmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlicm93c2VyLkV2YWxKUygiYWxlcnQoJ3Rlc3QnKSIpOwo=</text>
+        <text encoding="base64">CQlicm93c2VyLmFsbG93Q29udGV4dE1lbnVPbihmYWxzZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlicm93c2VyLkV2YWxKUygiYWxlcnQoJ3Rlc3QnKSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkKCQlicm93c2VyLkV2YWxKUygnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkKCQlicm93c2VyLkV2YWxKUygnJykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
