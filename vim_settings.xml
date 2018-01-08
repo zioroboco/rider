@@ -33,11 +33,10 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/Limbo/Field/Field.cs" timestamp="1515452842121">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/Limbo/Assets/Limbo/Field/Field.cs" timestamp="1515454812196">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622910798">
         <mark key="[" line="8" column="0" />
@@ -108,41 +107,41 @@
       <jump line="149" column="40" filename="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nKFN0cmluZy5Gb3JtYXQoIkNyZWF0aW5nIHBhcnRpY2xlIHswfSBhdCBwb3NpdGlvbiB7MX0uIiwgaSwgeCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Starting</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNpbmcgVW5pUnguVHJpZ2dlcnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nKFN0cmluZy5Gb3JtYXQoIkNyZWF0aW5nIHBhcnRpY2xlIHswfSBhdCBwb3NpdGlvbiB7MX0uIiwgaSwgeCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgIHBhcnRpY2xlU3lzdGVtLnNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnRpY2xlRW1pdHRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvZHkudHJhbnNmb3JtLmxvY2FsUG9zaXRpb24gKiAtQXR0cmFjdGlvbkZvcmNlLlZhbHVlOwo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLkRlbGF5KFRpbWVTcGFuLkZyb21TZWNvbmRzKDEpKQo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmtqCg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLkRlbGF5U3Vic2NyaXB0aW9uKFRpbWVTcGFuLkZyb21TZWNvbmRzKDEpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGJvZHkudHJhbnNmb3JtLmxvY2FsUG9zaXRpb24gKiAtQXR0cmFjdGlvbkZvcmNlLlZhbHVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLkRlbGF5KFRpbWVTcGFuLkZyb21TZWNvbmRzKDEpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -185,6 +184,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
