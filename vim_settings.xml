@@ -37,6 +37,12 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" timestamp="1515371439589">
+        <mark key="[" line="149" column="30" />
+        <mark key="]" line="149" column="42" />
+        <mark key="." line="149" column="42" />
+        <mark key="^" line="149" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="15" column="0" />
@@ -86,14 +92,14 @@
       <jump line="13" column="30" filename="$USER_HOME$/Limbo/Assets/Nucleon.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlicm93c2VyLmFsbG93Q29udGV4dE1lbnVPbihmYWxzZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>StandaloneOSXIntel</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>StandaloneOSXIntel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9ic2VydmFibGVGaXhlZFVwZGF0ZVRyaWdnZXIuRml4ZWRVcGRhdGVBc09ic2VydmFibGUoKS5TdWJzY3JpYmUoXyA9PiBBZGRGb3JjZVRvQm9keShfYm9keSkpOwo=</text>
+        <text encoding="base64">CQlpZiAodGFyZ2V0ID09IEJ1aWxkVGFyZ2V0LlN0YW5kYWxvbmVPU1hJbnRlbCB8fCB0YXJnZXQgPT0gQnVpbGRUYXJnZXQuU3RhbmRhbG9uZU9TWCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlicm93c2VyLmFsbG93Q29udGV4dE1lbnVPbihmYWxzZSk7Cg==</text>
