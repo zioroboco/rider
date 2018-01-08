@@ -20,6 +20,11 @@
         <mark key="." line="13" column="69" />
         <mark key="^" line="13" column="69" />
       </file>
+      <file name="$USER_HOME$/Limbo/Assets/PointChargeManager.cs" timestamp="1515373157268">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Demo/ExampleScripts/SimpleScripting.cs" timestamp="1515369968527">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -37,10 +42,11 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" timestamp="1515371439589">
+      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" timestamp="1515371458499">
+        <mark key="'" line="149" column="40" />
         <mark key="[" line="149" column="30" />
-        <mark key="]" line="149" column="42" />
-        <mark key="." line="149" column="42" />
+        <mark key="]" line="149" column="30" />
+        <mark key="." line="149" column="30" />
         <mark key="^" line="149" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
@@ -90,43 +96,44 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
       <jump line="13" column="30" filename="$USER_HOME$/Limbo/Assets/Nucleon.cs" />
+      <jump line="149" column="40" filename="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StandaloneOSXIntel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFZlY3RvcjNbXSBfcG9pbnRDaGFyZ2VzID0gbmV3IFZlY3RvcjNbXSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>StandaloneOSXIntel</text>
+        <text>j</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlpZiAodGFyZ2V0ID09IEJ1aWxkVGFyZ2V0LlN0YW5kYWxvbmVPU1hJbnRlbCB8fCB0YXJnZXQgPT0gQnVpbGRUYXJnZXQuU3RhbmRhbG9uZU9TWCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlicm93c2VyLmFsbG93Q29udGV4dE1lbnVPbihmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFZlY3RvcjNbXSBfcG9pbnRDaGFyZ2VzID0gbmV3IFZlY3RvcjNbXSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlicm93c2VyLkV2YWxKUygiYWxlcnQoJ3Rlc3QnKSIpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlicm93c2VyLmFsbG93Q29udGV4dE1lbnVPbihmYWxzZSk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkKCQlicm93c2VyLkV2YWxKUygnJykK</text>
+        <text encoding="base64">CQlicm93c2VyLkV2YWxKUygiYWxlcnQoJ3Rlc3QnKSIpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkKCQlicm93c2VyLkV2YWxKUygnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
