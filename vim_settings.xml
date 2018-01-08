@@ -13,17 +13,17 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/WebResources.cs" timestamp="1515368231513" />
+      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/BrowserNative.cs" timestamp="1515369583805" />
       <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1514951726432">
         <mark key="[" line="13" column="64" />
         <mark key="]" line="13" column="69" />
         <mark key="." line="13" column="69" />
         <mark key="^" line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Demo/ExampleScripts/SimpleScripting.cs" timestamp="1515368613760">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="43" column="2" />
-        <mark key="." line="43" column="2" />
-        <mark key="^" line="43" column="2" />
+      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Demo/ExampleScripts/SimpleScripting.cs" timestamp="1515369968527">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" timestamp="1514428624166">
         <mark key="'" line="29" column="2" />
@@ -87,40 +87,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlicm93c2VyLmFsbG93Q29udGV4dE1lbnVPbihmYWxzZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9ic2VydmFibGVGaXhlZFVwZGF0ZVRyaWdnZXIuRml4ZWRVcGRhdGVBc09ic2VydmFibGUoKS5TdWJzY3JpYmUoXyA9PiBBZGRGb3JjZVRvQm9keShfYm9keSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlicm93c2VyLmFsbG93Q29udGV4dE1lbnVPbihmYWxzZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkKCQlicm93c2VyLkV2YWxKUygnJykK</text>
+        <text encoding="base64">CQlicm93c2VyLkV2YWxKUygiYWxlcnQoJ3Rlc3QnKSIpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkKCQlicm93c2VyLkV2YWxKUygnJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
