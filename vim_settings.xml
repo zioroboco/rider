@@ -33,11 +33,10 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/Limbo/Field/Field.cs" timestamp="1515476217964">
+      <file name="$USER_HOME$/Limbo/Assets/Limbo/Field/Field.cs" timestamp="1515476405037">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622910798">
         <mark key="[" line="8" column="0" />
@@ -115,7 +114,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBhcnRpY2xlU3lzdGVtIF9wYXJ0aWNsZVN5c3RlbTsK</text>
+        <text encoding="base64">ICAgIF9wYXJ0aWNsZVN5c3RlbS5TZXRQYXJ0aWNsZXMoX3BvaW50cywgX3BvaW50cy5MZW5ndGgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>ParticleSystem.Particle</text>
@@ -124,31 +123,31 @@
         <text encoding="base64">dXNpbmcgVW5pUnguVHJpZ2dlcnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBhcnRpY2xlU3lzdGVtIF9wYXJ0aWNsZVN5c3RlbTsK</text>
+        <text encoding="base64">ICAgIF9wYXJ0aWNsZVN5c3RlbS5TZXRQYXJ0aWNsZXMoX3BvaW50cywgX3BvaW50cy5MZW5ndGgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIERlYnVnLkxvZygiSW5pdGlhbGlzaW5nIHBhcnRpY2xlIHN5c3RlbS4iKTsKICAgIF9wYXJ0aWNsZVN5c3RlbSA9IEdldENvbXBvbmVudDxQYXJ0aWNsZVN5c3RlbT4oKTsKICAgIGlmIChSZXNvbHV0aW9uIDwgMTAgfHwgUmVzb2x1dGlvbiA+IDEwMDApIHsKICAgICAgRGVidWcuTG9nV2FybmluZygiUGFydGljbGUgc3lzdGVtIHJlc29sdXRpb24gb3V0IG9mIGJvdW5kcy4gUmVzZXR0aW5nIHRvIG1pbmltdW0uIiwgdGhpcyk7CiAgICAgIFJlc29sdXRpb24gPSAxMDsKICAgIH0KICAgIF9wb2ludHMgPSBuZXcgUGFydGljbGVTeXN0ZW0uUGFydGljbGVbUmVzb2x1dGlvbl07CiAgICB2YXIgaW5jcmVtZW50ID0gMWYgLyAoUmVzb2x1dGlvbiAtIDEpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBSZXNvbHV0aW9uOyBpKyspIHsKICAgICAgZmxvYXQgeCA9IGkgKiBpbmNyZW1lbnQ7CiAgICAgIERlYnVnLkxvZygkIkNyZWF0aW5nIHBhcnRpY2xlIHtpfSBhdCBwb3NpdGlvbiB7eH0uIik7CiAgICAgIF9wb2ludHNbaV0ucG9zaXRpb24gPSBuZXcgVmVjdG9yMyh4LCAwZiwgMGYpOwogICAgICBfcG9pbnRzW2ldLnN0YXJ0Q29sb3IgPSBuZXcgQ29sb3IoeCwgMGYsIDBmKTsKICAgICAgX3BvaW50c1tpXS5zdGFydFNpemUgPSAwLjFmOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgaW50IFNpemUgPSAxOwogIHB1YmxpYyBpbnQgUmVzb2x1dGlvbiA9IDEwOwogIAogIHByaXZhdGUgVHJhbnNmb3JtW11bXVtdIF9wb2ludHM7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFBhcnRpY2xlU3lzdGVtIF9wYXJ0aWNsZVN5c3RlbTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2b2lkIHN0YQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRGVidWcuTG9nKFN0cmluZy5Gb3JtYXQoIkNyZWF0aW5nIHBhcnRpY2xlIHswfSBhdCBwb3NpdGlvbiB7MX0uIiwgaSwgeCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnRpY2xlU3lzdGVtLnNlCg==</text>
+        <text encoding="base64">ICB2b2lkIHN0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnRpY2xlRW1pdHRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
