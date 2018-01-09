@@ -72,11 +72,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/NucleonSpawner.cs" timestamp="1515480751349">
-        <mark key="[" line="12" column="81" />
-        <mark key="]" line="12" column="80" />
-        <mark key="^" line="12" column="80" />
-        <mark key="." line="12" column="80" />
+      <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/NucleonSpawner.cs" timestamp="1515484862012">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/GameController.cs" timestamp="1514439269283">
         <mark key="[" line="2" column="0" />
@@ -134,10 +134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Immediate</text>
+        <text>EveryFixedUpdate</text>
       </register>
       <register name="-" type="4">
-        <text>Immediate</text>
+        <text>EveryFixedUpdate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9ic1Rocm90dGxlZC5TdWJzY3JpYmUoXyA9PiB7IERlYnVnLkxvZygkIlVwZGF0ZSBjYWxsZWQgb24gZnJhbWUge1RpbWUuZnJhbWVDb3VudH0gYXQge1RpbWUudGltZX0uIik7IH0pOwo=</text>
