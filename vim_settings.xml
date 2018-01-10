@@ -3,26 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" timestamp="1514428624166">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1514437339011">
+      <file name="/Dummy.txt" timestamp="1515478853954">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622575472">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/TutorialSystems.cs" timestamp="1514438332573">
         <mark key="[" line="0" column="0" />
@@ -30,22 +12,111 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1515415510269">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/PointChargeManager.cs" timestamp="1515373157268">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Demo/ExampleScripts/SimpleScripting.cs" timestamp="1515369968527">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" timestamp="1514428624166">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/Limbo/Field/Field.cs" timestamp="1515476405037">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/AttractionForce.cs" timestamp="1515478495661">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622910798">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" timestamp="1515371458499">
+        <mark key="'" line="149" column="40" />
+        <mark key="[" line="149" column="30" />
+        <mark key="]" line="149" column="30" />
+        <mark key="." line="149" column="30" />
+        <mark key="^" line="149" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/Nucleon.cs" timestamp="1515478678529">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/AttractionForce.cs" timestamp="1514952107349">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/NucleonSpawner.cs" timestamp="1515484862012">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/GameController.cs" timestamp="1514439269283">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/PlayModeTest.cs" timestamp="1514799121984">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Components/DebugMessageComponent.cs" timestamp="1514508046644">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/Limbo/Field/Billboard.cs" timestamp="1515459653937">
+        <mark key="[" line="5" column="82" />
+        <mark key="]" line="5" column="85" />
+        <mark key="." line="5" column="85" />
+        <mark key="^" line="5" column="85" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/SpawnRate.cs" timestamp="1515478486444">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DingSystem.cs" timestamp="1514438052334">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/Limbo/Assets/Plugins/UniRx/Examples/Sample12_ReactiveProperty.cs" timestamp="1515415207437">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
@@ -58,43 +129,45 @@
       <jump line="29" column="2" filename="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
+      <jump line="13" column="30" filename="$USER_HOME$/Limbo/Assets/Nucleon.cs" />
+      <jump line="149" column="40" filename="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>EveryFixedUpdate</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>EveryFixedUpdate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFkZChuZXcgRGluZ1N5c3RlbShjb250ZXh0cykpOwo=</text>
+        <text encoding="base64">ICAgIG9ic1Rocm90dGxlZC5TdWJzY3JpYmUoXyA9PiB7IERlYnVnLkxvZygkIlVwZGF0ZSBjYWxsZWQgb24gZnJhbWUge1RpbWUuZnJhbWVDb3VudH0gYXQge1RpbWUudGltZX0uIik7IH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9icy5TdWJzY3JpYmUoXyA9PiB7IERlYnVnLkxvZygkIlVwZGF0ZSBjYWxsZWQgb24gZnJhbWUge1RpbWUuZnJhbWVDb3VudH0gYXQge1RpbWUudGltZX0uIik7IH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNoZWNrIHRvIG1ha2Ugc3VyZSB0aGUgZW50aXR5IGhhc24ndCBiZWVuIGFsdGVyZWQgaW4gYSBkaWZmZXJlbnQgc3lzdGVtCiAgICByZXR1cm4gZW50aXR5Lmhhc0RlYnVnTWVzc2FnZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmUuRXhwZXJpbWVudGFsLlVJRWxlbWVudHM7CnVzaW5nIFZhbHZlLlZSOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIElWUkFwcGxpY2F0aW9ucy5fR2V0QXBwbGljYXRpb25zVGhhdFN1cHBvcnRNaW1lVHkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIENhbGxiYWNrRXZlbnRIYW5kbAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ci8vICAgIHRoaXMuRml4ZWRVcGRhdGVBc09ic2VydmFibGUoKQovLy8vICAgICAgLlRocm90dGxlKFRpbWVTcGFuLkZyb21TZWNvbmRzKFNwYXduUmF0ZS5UaW1lQmV0d2VlblNwYXducykpCi8vICAgICAgLlN1YnNjcmliZShfID0+IHsKLy8gICAgICAgIERlYnVnLkxvZygkIkZpeGVkVXBkYXRlIG9uIGZyYW1lIHtUaW1lLmZyYW1lQ291bnR9IGF0IHtUaW1lLnRpbWV9LiIpOwovLyAgICAgIH0pOwogIH0KICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAovLyAgICB2YXIgb2JzID0gdGhpcy5GaXhlZFVwZGF0ZUFzT2JzZXJ2YWJsZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBnYW1lT2JqZWN0LkFkZENvbXBvbmVudDxPYnNlcnZhYmxlVXBkYXRlVHJpZ2dlcj4oKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAga2trCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNpbmcgVW5pdHkuTGlucTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmUuUGxheWFibGVzOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9rCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -131,6 +204,24 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
