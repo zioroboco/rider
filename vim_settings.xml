@@ -9,12 +9,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" timestamp="1517139690855">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="46" />
-        <mark key="." line="32" column="46" />
-        <mark key="^" line="32" column="46" />
+      <file name="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" timestamp="1517140524384">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/PointChargeManager.cs" timestamp="1515373157268">
         <mark key="[" line="3" column="0" />
@@ -142,8 +141,8 @@
       <jump line="23" column="17" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Press</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkNvbnN0cmFpbnRzOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Press</text>
@@ -152,31 +151,31 @@
         <text encoding="base64">ICAgICAgRGVidWcuTG9nKGdhbWVPYmplY3QubmFtZSArICJHcmlwIFByZXNzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRAo=</text>
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkNvbnN0cmFpbnRzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIENvbnRyb2xsZXIuR2V0UHJlc3NVcChTdGVhbSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgRAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIENvbnRyb2xsZXIuR2V0UHJlc3NVcChTdGVhbSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEluc3RhbmNlT2ZUeXBlQ29uc3RyYWludCAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBjb250ID0gQ29udHJvbGxlci5HZXRBeGlzKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIENvbnQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEluc3RhbmNlT2ZUeXBlQ29uc3RyYWludCAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciBjb250ID0gQ29udHJvbGxlci5HZXRBeGlzKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgIGlmIENvbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
