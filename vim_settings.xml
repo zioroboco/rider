@@ -9,22 +9,17 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" timestamp="1517133971372">
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="6" column="69" />
-        <mark key="." line="6" column="69" />
-        <mark key="^" line="6" column="69" />
+      <file name="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" timestamp="1517138185702">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="50" />
+        <mark key="." line="24" column="50" />
+        <mark key="^" line="24" column="50" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/PointChargeManager.cs" timestamp="1515373157268">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" timestamp="1514428624166">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/AttractionForce.cs" timestamp="1515478495661">
         <mark key="[" line="6" column="0" />
@@ -56,6 +51,11 @@
       <file name="/Dummy.txt" timestamp="1515478853954">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" timestamp="1517136965148">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1515415510269">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -84,12 +84,6 @@
         <mark key="]" line="149" column="30" />
         <mark key="." line="149" column="30" />
         <mark key="^" line="149" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" timestamp="1514507364139">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/NucleonSpawner.cs" timestamp="1515484862012">
         <mark key="[" line="13" column="34" />
@@ -144,43 +138,45 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DebugMessageSystem.cs" />
       <jump line="13" column="30" filename="$USER_HOME$/Limbo/Assets/Nucleon.cs" />
       <jump line="149" column="40" filename="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" />
+      <jump line="14" column="24" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
+      <jump line="23" column="17" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>Press</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>Press</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9ic1Rocm90dGxlZC5TdWJzY3JpYmUoXyA9PiB7IERlYnVnLkxvZygkIlVwZGF0ZSBjYWxsZWQgb24gZnJhbWUge1RpbWUuZnJhbWVDb3VudH0gYXQge1RpbWUudGltZX0uIik7IH0pOwo=</text>
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nKGdhbWVPYmplY3QubmFtZSArICIgVHJpZ2dlciBQcmVzcyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEluc3RhbmNlT2ZUeXBlQ29uc3RyYWludCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhciBjb250ID0gQ29udHJvbGxlci5HZXRBeGlzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgVXBkYXRlKCkgewogICAgU2VyaWFsaXplUHJpdmF0ZVZhcmlhYmxlcyBTdAogIH0K</text>
+        <text encoding="base64">ICAgIGlmIENvbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICh0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -235,6 +231,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
