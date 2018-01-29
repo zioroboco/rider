@@ -50,10 +50,12 @@
       <file name="/Dummy.txt" timestamp="1515478853954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" timestamp="1517136965148">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" timestamp="1517140672455">
+        <mark key="'" line="188" column="11" />
+        <mark key="[" line="188" column="8" />
+        <mark key="]" line="188" column="5" />
+        <mark key="." line="188" column="5" />
+        <mark key="^" line="188" column="5" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1515415510269">
         <mark key="[" line="12" column="0" />
@@ -139,10 +141,11 @@
       <jump line="149" column="40" filename="$USER_HOME$/Limbo/Assets/ZFBrowser/Scripts/Editor/PostBuildStandalone.cs" />
       <jump line="14" column="24" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
       <jump line="23" column="17" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
+      <jump line="190" column="11" filename="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkNvbnN0cmFpbnRzOwo=</text>
+        <text encoding="base64">CQkJCWkgPT0gcmVsYXRpdmVUbwo=</text>
       </register>
       <register name="-" type="4">
         <text>Press</text>
@@ -151,31 +154,31 @@
         <text encoding="base64">ICAgICAgRGVidWcuTG9nKGdhbWVPYmplY3QubmFtZSArICJHcmlwIFByZXNzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkNvbnN0cmFpbnRzOwo=</text>
+        <text encoding="base64">CQkJCWkgPT0gcmVsYXRpdmVUbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkNvbnN0cmFpbnRzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIENvbnRyb2xsZXIuR2V0UHJlc3NVcChTdGVhbSkK</text>
+        <text encoding="base64">ICAgICAgRAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIENvbnRyb2xsZXIuR2V0UHJlc3NVcChTdGVhbSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEluc3RhbmNlT2ZUeXBlQ29uc3RyYWludCAK</text>
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBjb250ID0gQ29udHJvbGxlci5HZXRBeGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgIEluc3RhbmNlT2ZUeXBlQ29uc3RyYWludCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIENvbnQK</text>
+        <text encoding="base64">ICAgIHZhciBjb250ID0gQ29udHJvbGxlci5HZXRBeGlzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
