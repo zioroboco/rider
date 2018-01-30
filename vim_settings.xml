@@ -12,6 +12,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" timestamp="1517297277554">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" timestamp="1517295052586">
         <mark key="'" line="188" column="11" />
         <mark key="[" line="188" column="8" />
@@ -138,7 +143,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nQXNzZXJ0aW9uKG5ldyBVbml0eUV4Y2VwdGlvbigpKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -147,31 +152,31 @@
         <text encoding="base64">ICAgICAgRGVidWcuTG9nKGdhbWVPYmplY3QubmFtZSArICJHcmlwIFByZXNzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nQXNzZXJ0aW9uKG5ldyBVbml0eUV4Y2VwdGlvbigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRGVidWdnZXJUeXBlUHJveHlBdHRyaWJ1dGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRGVidWcubG9nYQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWkgPT0gcmVsYXRpdmVUbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrLkNvbnN0cmFpbnRzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRAo=</text>
+        <text encoding="base64">CQkJCWkgPT0gcmVsYXRpdmVUbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
