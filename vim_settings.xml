@@ -12,10 +12,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" timestamp="1517298263797">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" timestamp="1517302350983">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="41" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" timestamp="1517295052586">
         <mark key="'" line="188" column="11" />
@@ -147,11 +148,11 @@
       <jump line="190" column="11" filename="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlbSGlkZUluSW5zcGVjdG9yXQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YSA=</text>
       </register>
       <register name="-" type="4">
-        <text>HideInInspector</text>
+        <text encoding="base64">YSA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgRGVidWcuTG9nKGdhbWVPYmplY3QubmFtZSArICJHcmlwIFByZXNzIik7Cg==</text>
