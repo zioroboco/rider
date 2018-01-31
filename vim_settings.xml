@@ -73,6 +73,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/ARDemo/Assets/BarnDoor.cs" timestamp="1517383206137">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622910798">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -91,11 +97,11 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ARDemo/Assets/Billboard.cs" timestamp="1517381496347">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="20" />
+      <file name="$USER_HOME$/ARDemo/Assets/Billboard.cs" timestamp="1517383267197">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/TutorialSystems.cs" timestamp="1514438332573">
         <mark key="[" line="0" column="0" />
@@ -154,41 +160,41 @@
       <jump line="190" column="11" filename="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Billboard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>Billboard</text>
+        <text>BarnDoor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8JCXRyYW5zZm9ybS5Mb29rQXQoQ2FtZXJhLm1haW4udHJhbnNmb3JtLnBvc2l0aW9uLCAtVmVjdG9yMy51cCk7Cg==</text>
+        <text encoding="base64">CQl0cmFuc2Zvcm0ucm90YXRpb24gPSBDYW1lcmEubWFpbi50cmFuc2Zvcm0ucm90YXRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W0V4ZWN1dGVJbkVkaXRNb2RlXQo=</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">IApwdWJsaWMgY2xhc3MgQ2FtZXJhRmFjaW5nQmlsbGJvYXJkIDogTW9ub0JlaGF2aW91cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCXRyYW5zZm9ybS5Mb29rQXQoQ2FtZXJhLm1haW4udHJhbnNmb3JtLnBvc2l0aW9uLCAtVmVjdG9yMy51cCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8JCXRyYW5zZm9ybS5Mb29rQXQoQ2FtZXJhLm1haW4udHJhbnNmb3JtLnBvc2l0aW9uLCAtVmVjdG9yMy51cCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7CnVzaW5nIFN5c3RlbS5Db2xsZWN0aW9uczsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXIgY2FtZXJhUG9zaXRpb24gPSBDYW1lcmEubWFpbi50cmFuc2Zvcm0ucG9zaXRpb247CgkJCgkJdmFyIGJpbGxib2FyZFBvc2l0aW9uID0gbmV3IFZlY3RvcjMoCgkJCQogICAgICAgICk7CgkJCg==</text>
+        <text encoding="base64">CQl2YXIgY2FtZXJhUm90YXRpb24gPSBDYW1lcmEubWFpbi50cmFuc2Zvcm0ucm90YXRpb247CgkJdHJhbnNmb3JtLnJvdGF0aW9uID0gbmV3IFF1YXRlcm5pb24oCgkJCWNhbWVyYVJvdGF0aW9uLngsCgkJCWNhbWVyYVJvdGF0aW9uLnksCgkJCXRyYW5zZm9ybS5yb3RhdGlvbi56LAoJCQljYW1lcmFSb3RhdGlvbi53CiAgICAgICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkKLy8JCXZhciBjYW1lcmFQb3NpdGlvbiA9IENhbWVyYS5tYWluLnRyYW5zZm9ybS5wb3NpdGlvbjsKLy8gICAgICAgIHZhciB0YXJnZXRQb3N0aXRpb24gPSBuZXcgVmVjdG9yMygKLy8JICAgICAgICBjYW1lcmFQb3NpdGlvbi54LCAKLy8JICAgICAgICB0cmFuc2Zvcm0ucG9zaXRpb24ueSwgCi8vICAgICAgICAgICAgY2FtZXJhUG9zaXRpb24uegovLyAgICAgICAgKTsKLy8gICAgICAgIHRyYW5zZm9ybS5Mb29rQXQodGFyZ2V0UG9zdGl0aW9uKTsKCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JCXRyYW5zZm9ybS5Mb29rQXQoQ2FtZXJhLm1haW4udHJhbnNmb3JtLnBvc2l0aW9uLCAtVmVjdG9yMy51cCk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJQ2FtZXJhLm1haW4udHJhbnNmb3JtLnBvc2l0aW9uLAo=</text>
+        <text encoding="base64">CQkKLy8JCXRyYW5zZm9ybS5yb3RhdGlvbiA9IENhbWVyYS5tYWluLnRyYW5zZm9ybS5yb3RhdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
