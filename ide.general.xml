@@ -13,5 +13,7 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.settings" value="true" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
