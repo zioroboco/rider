@@ -31,6 +31,12 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/sneakin/Assets/Plugins/manifest.yaml" timestamp="1526031245018">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+      </file>
       <file name="$USER_HOME$/kessler-syndrome/Assets/Scripts/Example.cs" timestamp="1525511097524">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -183,41 +189,41 @@
       <jump line="27" column="22" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Device</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgZGVsdGFUaGV0YSA9IERlbHRhVGhldGEoX2xhc3RUb3VjaHBhZFBvc2l0aW9uLCBjdXJyZW50VG91Y2hwYWRQb3NpdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAtIFJ1bnRpbWUgVHJhbnNmb3JtIEdpem1vcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgl2b2lkIFN0YXJ0ICgpIHsKCQkKCX0K</text>
+        <text encoding="base64">ICAtIE1vbml0b3IgQ29tcG9uZW50cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIENyCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZSBhCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">Cgl2b2lkIFN0YXJ0ICgpIHsKCQkKCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIENyCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgLy8vIDxzdW1tYXJ5PgogIC8vLyBUaGUgdHJhdmVyc2VkIGFuZ2xlIChpbiByYWRpYW5zKSBvbiB0aGUgdHJhY2twYWQgc28gZmFyLgogIC8vLyA8L3N1bW1hcnk+CiAgcHJpdmF0ZSBmbG9hdCBfdGhldGE7Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIENyZWF0ZSBhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhciBkZWx0YVRoZXRhID0gRGVsdGFUaGV0YShfbGFzdFRvdWNocGFkUG9zaXRpb24sIGN1cnJlbnRUb3VjaHBhZFBvc2l0aW9uKTsK</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkRpYWdub3N0aWNzOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
