@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.5.2" />
+    <option name="version" value="1.5.4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="accentColor" value="616161" />
     <option name="tabsHeight" value="50" />

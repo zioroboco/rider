@@ -1,11 +1,16 @@
 <scheme name="Best" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-12-29T11:15:14</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-29T11:25:52</property>
+    <property name="modified">2018-05-11T19:30:21</property>
     <property name="originalScheme">_@user_Peel (rainglow)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="f4d370" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
@@ -48,7 +53,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e2a25" />
     <option name="SELECTED_INDENT_GUIDE" value="4d473e" />
     <option name="SELECTED_TEARLINE_COLOR" value="4d473e" />
-    <option name="SELECTION_BACKGROUND" value="cf613a" />
+    <option name="SELECTION_BACKGROUND" value="524c43" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="2e2a25" />
