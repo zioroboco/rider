@@ -170,11 +170,11 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526122866519">
-        <mark key="[" line="81" column="53" />
-        <mark key="]" line="81" column="56" />
-        <mark key="." line="81" column="56" />
-        <mark key="^" line="81" column="56" />
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526124861675">
+        <mark key="[" line="88" column="26" />
+        <mark key="]" line="89" column="16" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="89" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
@@ -196,40 +196,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>forward</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>forward</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeCA9IElucHV0Lm1vdXNlUG9zaXRpb24ueDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sIE1vdXNlTG9vayA9IHRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMyBEb3duOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMyBfZG93bjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgTW91c2VMb29rTW9kZXMuT2ZmOgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgTW91c2VMb29rTW9kZXMuT2ZmOgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEFyZ3VtZW50T3V0T2ZSYW5nZUV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoSW5wdXQuR2V0S2V5KEtleUNvZGUuVykpCiAgICAgICAgewogICAgICAgICAgICBfcmIuQWRkRm9yY2UoVGhydXN0ICogdHJhbnNmb3JtLmZvcndhcmQpOwogICAgICAgIH0KICAgICAgICBpZiAoSW5wdXQuR2V0S2V5KEtleUNvZGUuUSkpCiAgICAgICAgewogICAgICAgICAgICBfcmIuQWRkVG9ycXVlKFRvcnF1ZSAqIG5ldyBWZWN0b3IzKDAsIC0xLCAwKSk7CiAgICAgICAgfQogICAgICAgIGlmIChJbnB1dC5HZXRLZXkoS2V5Q29kZS5FKSkKICAgICAgICB7CiAgICAgICAgICAgIF9yYi5BZGRUb3JxdWUoVG9ycXVlICogbmV3IFZlY3RvcjMoMCwgMSwgMCkpOwogICAgICAgIH0KICAgICAgICBpZiAoSW5wdXQuR2V0S2V5KEtleUNvZGUuQSkpCiAgICAgICAgewogICAgICAgICAgICBfcmIuQWRkRm9yY2UoVHJhbnNsYXRlICogLXRyYW5zZm9ybS5yaWdodCk7CiAgICAgICAgfQogICAgICAgIGlmIChJbnB1dC5HZXRLZXkoS2V5Q29kZS5EKSkKICAgICAgICB7CiAgICAgICAgICAgIF9yYi5BZGRGb3JjZShUcmFuc2xhdGUgKiB0cmFuc2Zvcm0ucmlnaHQpOwogICAgICAgIH0KICAgICAgICBpZiAoSW5wdXQuR2V0S2V5KEtleUNvZGUuUykpCiAgICAgICAgewogICAgICAgICAgICBfcmIuQWRkRm9yY2UoVHJhbnNsYXRlICogLXRyYW5zZm9ybS5mb3J3YXJkKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmUuVUk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICBfZG93biA9IFZlY3RvcjMubGVmdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMyBfZG93bjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -296,6 +296,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
