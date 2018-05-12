@@ -95,6 +95,12 @@
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="48" />
       </file>
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526095741818">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/Limbo/Assets/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1517298507245">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -194,41 +200,41 @@
       <jump line="27" column="22" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGVsdGFUaGV0YSA9IERlbHRhVGhldGEoX2xhc3RUb3VjaHBhZFBvc2l0aW9uLCBjdXJyZW50VG91Y2hwYWRQb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoSW5wdXQuR2V0S2V5KEtleUNvZGUuRCkpCiAgICAgICAgewogICAgICAgICAgICBfcmIuQWRkRm9yY2UoVHJhbnNsYXRlICogdHJhbnNmb3JtLnJpZ2h0KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIFJ1bnRpbWUgVHJhbnNmb3JtIEdpem1vcwo=</text>
+        <text encoding="base64">ICAgIHB1YmlsaWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIE1vbml0b3IgQ29tcG9uZW50cwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBfcmIuQWRkRm9yY2UoVGhydXN0ICogbmV3IFZlY3RvcjMoMCwgMCwgMSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JiLkFkZFRvcnF1ZShUb3JxdWUgKiBWZWN0b3IzLnJpZ2h0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgl2b2lkIFN0YXJ0ICgpIHsKCQkKCX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JiLkFkZFRvcnF1ZShUb3JxdWUgKiBWZWN0b3IzLmxlZnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIENyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIF9yYi5BZGRGb3JjZShUaHJ1c3QgKiBuZXcgVmVjdG9yMygwLCAwLCAxKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZSBhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJUaHJ1c2luZyBieSAiICsgVGhydXN0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JiLm0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
