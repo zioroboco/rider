@@ -170,11 +170,11 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526122082799">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526122866519">
+        <mark key="[" line="81" column="53" />
+        <mark key="]" line="81" column="56" />
+        <mark key="." line="81" column="56" />
+        <mark key="^" line="81" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
@@ -196,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>forward</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>forward</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgeCA9IElucHV0Lm1vdXNlUG9zaXRpb24ueDsK</text>
