@@ -43,6 +43,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/unirx-character/Assets/PlayerControllerSimple.cs" timestamp="1526213893572">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/kessler-syndrome/Assets/Scripts/Example.cs" timestamp="1525511097524">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -148,11 +154,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/unirx-character/Assets/Inputs.cs" timestamp="1526209947061">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="48" />
+      <file name="$USER_HOME$/unirx-character/Assets/Inputs.cs" timestamp="1526213402489">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/SpawnRate.cs" timestamp="1515478486444">
         <mark key="[" line="0" column="0" />
@@ -188,11 +194,11 @@
         <mark key="." line="21" column="61" />
         <mark key="^" line="21" column="61" />
       </file>
-      <file name="$USER_HOME$/unirx-character/Assets/PlayerController.cs" timestamp="1526210009363">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
+      <file name="$USER_HOME$/unirx-character/Assets/PlayerController.cs" timestamp="1526213951743">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
@@ -213,41 +219,41 @@
       <jump line="27" column="22" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEtleUNvZGUuVywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zZm9ybS5wb3NpdGlvbiArPSBuZXcgVmVjdG9yMyhkaXN0YW5jZS54LCAwLCBkaXN0YW5jZS55KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiTW92aW5nISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9yYgo=</text>
+        <text encoding="base64">CgovLwkJaW5wdXRzLk1vdmVtZW50Ci8vCQkJLldoZXJlKHYgPT4gdiAhPSBWZWN0b3IyLnplcm8pCi8vCQkJLlN1YnNjcmliZShpbnB1dE1vdmVtZW50ID0+Ci8vCQkJewovLwkJCQl2YXIgaW5wdXRWZWxvY2l0eSA9IGlucHV0TW92ZW1lbnQgKiBXYWxrU3BlZWQ7Ci8vCQkJCXZhciBwbGF5ZXJWZWxvY2l0eSA9Ci8vCQkJCQlpbnB1dFZlbG9jaXR5LnggKiB0cmFuc2Zvcm0ucmlnaHQgKwovLwkJCQkJaW5wdXRWZWxvY2l0eS55ICogdHJhbnNmb3JtLmZvcndhcmQ7Ci8vCQkJCXZhciBkaXN0YW5jZSA9IHBsYXllclZlbG9jaXR5ICogVGltZS5maXhlZERlbHRhVGltZTsKLy8JCQkJX2NoYXJhY3Rlci5Nb3ZlKGRpc3RhbmNlKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmlnaWRib2R5IF9yYjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgX3RyYW5zID0gR2V0Q29tcG9uZW50PFJpZ2lkYm9keT4oKTsK</text>
+        <text encoding="base64">CQlWZWN0b3IzIGlucHV0TW92ZW1lbnQgPQoJCQluZXcgVmVjdG9yMyhJbnB1dC5HZXRBeGlzKCJIb3Jpem9udGFsIiksIDAsIElucHV0LkdldEF4aXMoIlZlcnRpY2FsIikpCgkJCQkubm9ybWFsaXplZDsKCgkJdmFyIGlucHV0VmVsb2NpdHkgPSBpbnB1dE1vdmVtZW50ICogV2Fsa1NwZWVkOwoJCXZhciBwbGF5ZXJWZWxvY2l0eSA9IGlucHV0VmVsb2NpdHkueCAqIHRyYW5zZm9ybS5yaWdodCArCgkJICAgICAgICAgICAgICAgICAgICAgaW5wdXRWZWxvY2l0eS56ICogdHJhbnNmb3JtLmZvcndhcmQ7CgoJCXZhciBkaXN0YW5jZSA9IHBsYXllclZlbG9jaXR5ICogVGltZS5maXhlZERlbHRhVGltZTsKCQlfY2hhcmFjdGVyLk1vdmUoZGlzdGFuY2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHcK</text>
+        <text encoding="base64">CQlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9yYi5Nb3ZlKGRpc3RhbmNlKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLk9iamVjdE1vZGVsOwp1c2luZyBTeXN0ZW0uTGlucTsK</text>
+        <text encoding="base64">Ly8JCQl9KS5BZGRUbyh0aGlzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vICBwcml2YXRlIENvbGxlY3Rpb248S2V5Q29kZT4gX21vdmVtZW50S2V5cyA9IG5ldyBDb2xsZWN0aW9uPEtleUNvZGU+KCk7CiAgcHJpdmF0ZSBLZXlDb2RlW10gX21vdmVtZW50S2V5cyA9IG5ldyBLZXlDb2RlIFtdIHsKICAgIEtleUNvZGUuVywKICAgIEtleUNvZGUuQSwKICAgIEtleUNvZGUuUywKICAgIEtleUNvZGUuRAogIH07Cg==</text>
+        <text encoding="base64">CX0gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
