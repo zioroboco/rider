@@ -188,6 +188,12 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/unirx-character/Assets/Tests/MovementTest.cs" timestamp="1526216919696">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526191473832">
         <mark key="[" line="20" column="48" />
         <mark key="]" line="21" column="61" />
@@ -220,40 +226,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhlIHBsYXllciB3aWxsIGJlIG1vdmVkIA==</text>
+        <text>NUnit.Framework.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhlIHBsYXllciB3aWxsIGJlIG1vdmVkIA==</text>
+        <text>NUnit.Framework.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEtleUNvZGUuVywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBkZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKiAqCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjIgaW5wdXRWZWxvY2l0eSA9IGlucHV0TW92ZW1lbnQgKiBXYWxrU3BlZWQ7CiAgICAgICAgICAgICAgICBWZWN0b3IyIHBsYXllclZlbG9jaXR5ID0KICAgICAgICAgICAgICAgICAgICBpbnB1dFZlbG9jaXR5LnggKiB0cmFuc2Zvcm0ucmlnaHQgKwogICAgICAgICAgICAgICAgICAgIGlucHV0VmVsb2NpdHkueSAqIHRyYW5zZm9ybS5mb3J3YXJkOwogICAgICAgICAgICAgICAgVmVjdG9yMiBkaXN0YW5jZSA9IHBsYXllclZlbG9jaXR5ICogVGltZS5maXhlZERlbHRhVGltZTsK</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzIAogICAgcHVibGljIGNsYXNzIE1vdmVtZW50VGVzdCA6IE1vbm9CZWhhdmlvdXIgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRydWUodHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
