@@ -37,6 +37,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/kessler-syndrome/Assets/FrameControl.cs" timestamp="1526191764507">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="13" />
+      </file>
       <file name="$USER_HOME$/kessler-syndrome/Assets/Scripts/Example.cs" timestamp="1525511097524">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -170,11 +176,11 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526128134862">
-        <mark key="[" line="91" column="45" />
-        <mark key="]" line="91" column="49" />
-        <mark key="." line="91" column="49" />
-        <mark key="^" line="91" column="49" />
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526191473832">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="21" column="61" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
@@ -195,41 +201,41 @@
       <jump line="27" column="22" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>magnitude</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgVmVjdG9yMi4K</text>
       </register>
       <register name="-" type="4">
-        <text>magnitude</text>
+        <text>forward</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZmxvYXQgbWFnbml0dWRlID0gVmVjdG9yMy5BbmdsZSh0cmFuc2Zvcm0uZm9yd2FyZCwgdGFyZ2V0KTsK</text>
+        <text encoding="base64">ICAgICAgX3ZlbG9jaXR5ICs9IFRocnVzdEluRGlyZWN0aW9uKFZlY3RvclhaKFZlY3RvcjMuZm9yd2FyZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9yYi5BZGRUb3JxdWUobWFnbml0dWRlICogVG9ycXVlKTsK</text>
+        <text encoding="base64">ICAgICAgVmVjdG9yMi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgY3Jvc3NQcm9kdWN0ID0gVmVjdG9yMy5Dcm9zcyh0cmFuc2Zvcm0uZm9yd2FyZCwgdGFyZ2V0KTsK</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIFZlY3RvcjIgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0IGFuZ2xlID0gVmVjdG9yMy5BbmdsZSh0cmFuc2Zvcm0uZm9yd2FyZCwgZGVsdGEpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChJbnB1dC5HZXRLZXkoS2V5Q29kZS5TKSkKICAgIHsKICAgICAgX3JiLkFkZEZvcmNlKFRyYW5zbGF0ZSAqIFZlY3RvcjMuYmFjayk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">cHJpdmF0ZSBWZWN0b3IyIGZyb21WMyAoVmVjdG9yMyB2KSB7Cgp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
