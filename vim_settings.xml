@@ -194,11 +194,11 @@
         <mark key="." line="21" column="61" />
         <mark key="^" line="21" column="61" />
       </file>
-      <file name="$USER_HOME$/unirx-character/Assets/PlayerController.cs" timestamp="1526213951743">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/unirx-character/Assets/PlayerController.cs" timestamp="1526214945834">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+        <mark key="." line="22" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
@@ -219,41 +219,41 @@
       <jump line="27" column="22" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhlIHBsYXllciB3aWxsIGJlIG1vdmVkIA==</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">dGhlIHBsYXllciB3aWxsIGJlIG1vdmVkIA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEtleUNvZGUuVywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEBkZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgovLwkJaW5wdXRzLk1vdmVtZW50Ci8vCQkJLldoZXJlKHYgPT4gdiAhPSBWZWN0b3IyLnplcm8pCi8vCQkJLlN1YnNjcmliZShpbnB1dE1vdmVtZW50ID0+Ci8vCQkJewovLwkJCQl2YXIgaW5wdXRWZWxvY2l0eSA9IGlucHV0TW92ZW1lbnQgKiBXYWxrU3BlZWQ7Ci8vCQkJCXZhciBwbGF5ZXJWZWxvY2l0eSA9Ci8vCQkJCQlpbnB1dFZlbG9jaXR5LnggKiB0cmFuc2Zvcm0ucmlnaHQgKwovLwkJCQkJaW5wdXRWZWxvY2l0eS55ICogdHJhbnNmb3JtLmZvcndhcmQ7Ci8vCQkJCXZhciBkaXN0YW5jZSA9IHBsYXllclZlbG9jaXR5ICogVGltZS5maXhlZERlbHRhVGltZTsKLy8JCQkJX2NoYXJhY3Rlci5Nb3ZlKGRpc3RhbmNlKTsKCg==</text>
+        <text encoding="base64">ICAgIC8qKiAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlWZWN0b3IzIGlucHV0TW92ZW1lbnQgPQoJCQluZXcgVmVjdG9yMyhJbnB1dC5HZXRBeGlzKCJIb3Jpem9udGFsIiksIDAsIElucHV0LkdldEF4aXMoIlZlcnRpY2FsIikpCgkJCQkubm9ybWFsaXplZDsKCgkJdmFyIGlucHV0VmVsb2NpdHkgPSBpbnB1dE1vdmVtZW50ICogV2Fsa1NwZWVkOwoJCXZhciBwbGF5ZXJWZWxvY2l0eSA9IGlucHV0VmVsb2NpdHkueCAqIHRyYW5zZm9ybS5yaWdodCArCgkJICAgICAgICAgICAgICAgICAgICAgaW5wdXRWZWxvY2l0eS56ICogdHJhbnNmb3JtLmZvcndhcmQ7CgoJCXZhciBkaXN0YW5jZSA9IHBsYXllclZlbG9jaXR5ICogVGltZS5maXhlZERlbHRhVGltZTsKCQlfY2hhcmFjdGVyLk1vdmUoZGlzdGFuY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjIgaW5wdXRWZWxvY2l0eSA9IGlucHV0TW92ZW1lbnQgKiBXYWxrU3BlZWQ7CiAgICAgICAgICAgICAgICBWZWN0b3IyIHBsYXllclZlbG9jaXR5ID0KICAgICAgICAgICAgICAgICAgICBpbnB1dFZlbG9jaXR5LnggKiB0cmFuc2Zvcm0ucmlnaHQgKwogICAgICAgICAgICAgICAgICAgIGlucHV0VmVsb2NpdHkueSAqIHRyYW5zZm9ybS5mb3J3YXJkOwogICAgICAgICAgICAgICAgVmVjdG9yMiBkaXN0YW5jZSA9IHBsYXllclZlbG9jaXR5ICogVGltZS5maXhlZERlbHRhVGltZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JCQl9KS5BZGRUbyh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
