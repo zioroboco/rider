@@ -43,11 +43,10 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/kessler-syndrome/Assets/FrameControl.cs" timestamp="1526198279345">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="26" column="16" />
+      <file name="$USER_HOME$/kessler-syndrome/Assets/FrameControl.cs" timestamp="1529054788405">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/UniRxCharacter/Assets/PlayerController.cs" timestamp="1526205959402">
         <mark key="[" line="24" column="26" />
@@ -194,13 +193,18 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1526191473832">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="21" column="61" />
-        <mark key="." line="21" column="61" />
-        <mark key="^" line="21" column="61" />
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Control.cs" timestamp="1529054781121">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/unirx-character/Assets/PlayerController.cs" timestamp="1529054288729" />
+      <file name="$USER_HOME$/unirx-character/Assets/PlayerController.cs" timestamp="1529054467719">
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -221,25 +225,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Ding</text>
+        <text>right</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjID0gSW5wdXQuR2V0QXhpcygiSG9yaXpvbnRhbCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -248,13 +252,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3RlckNvbnRyb2xsZXIuTQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJhY3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -1,3 +1,5 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false" />
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="MATERIAL_THEME" shouldLog="false" />
+  </component>
 </application>

@@ -4,10 +4,10 @@
     <property name="created">2017-12-29T11:15:14</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-06-15T19:17:56</property>
+    <property name="modified">2018-06-15T19:23:39</property>
     <property name="originalScheme">_@user_Peel (rainglow)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
