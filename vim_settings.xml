@@ -108,6 +108,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" timestamp="1529141963625">
+        <mark key="'" line="60" column="66" />
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+        <mark key="^" line="60" column="99" />
+      </file>
       <file name="$USER_HOME$/kessler-syndrome/Assets/Code/Inputs.cs" timestamp="1529135833052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -118,11 +125,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/kessler-syndrome/Assets/Code/RxControl.cs" timestamp="1529141223395">
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Code/RxControl.cs" timestamp="1529141945377">
         <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="30" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/ZFBrowser/Demo/ExampleScripts/SimpleScripting.cs" timestamp="1515369968527">
         <mark key="[" line="43" column="0" />
@@ -226,16 +233,17 @@
       <jump line="23" column="17" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
       <jump line="190" column="11" filename="$USER_HOME$/Limbo/Assets/SteamVR/Scripts/SteamVR_Controller.cs" />
       <jump line="27" column="22" filename="$USER_HOME$/Limbo/Assets/_RW-VIVE/Scripts/ViveControllerInputTest.cs" />
+      <jump line="60" column="66" filename="$USER_HOME$/kessler-syndrome/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.</text>
+        <text>isPlayingOrWillChangePlayMode</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>isPlayingOrWillChangePlayMode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkN1cnNvciBtb3ZlZCEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRWRpdG9yQXBwbGljYXRpb24ucGxheW1vZGVTdGF0ZUNoYW5nZWQgKz0gKCkgPT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBfcmIgPSBHZXRDb21wb25lbnQ8UmlnaWRib2R5PigpOwo=</text>
