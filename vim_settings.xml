@@ -76,10 +76,10 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/kessler-syndrome/Assets/Code/Control.cs" timestamp="1529136635891">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Code/Control.cs" timestamp="1529156387503">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/GameController.cs" timestamp="1514439269283">
         <mark key="[" line="2" column="0" />
@@ -115,10 +115,10 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="60" column="99" />
       </file>
-      <file name="$USER_HOME$/kessler-syndrome/Assets/Code/Inputs.cs" timestamp="1529135833052">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/kessler-syndrome/Assets/Code/Inputs.cs" timestamp="1529156356336">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/Nucleon.cs" timestamp="1515415510269">
         <mark key="[" line="12" column="0" />
@@ -237,10 +237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isPlayingOrWillChangePlayMode</text>
+        <text>R</text>
       </register>
       <register name="-" type="4">
-        <text>isPlayingOrWillChangePlayMode</text>
+        <text>R</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRWRpdG9yQXBwbGljYXRpb24ucGxheW1vZGVTdGF0ZUNoYW5nZWQgKz0gKCkgPT4K</text>
@@ -273,7 +273,7 @@
         <text encoding="base64">ICAgICAgLldoZXJlKHYgPT4gdiAhPSBWZWN0b3IyLnplcm8pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -285,6 +285,7 @@
       <history-cmd>
         <entry>s</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
