@@ -83,6 +83,11 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="41" column="9" />
       </file>
+      <file name="$USER_HOME$/nix/Assets/Code/RotationSpeedComponent.cs" timestamp="1529227624863">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/kessler-syndrome/Assets/Code/Control.cs" timestamp="1529159876149">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="5" column="31" />
@@ -191,11 +196,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/RotationSpeed.cs" timestamp="1529225981120">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/nix/Assets/Code/RotationSpeed.cs" timestamp="1529227455724">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/SpawnRate.cs" timestamp="1515478486444">
         <mark key="[" line="0" column="0" />
@@ -266,38 +271,38 @@
       <jump line="26" column="12" filename="$USER_HOME$/kessler-syndrome/Assets/Code/Kepler.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gMWY=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMWY=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBhID0gMDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHVibGljIGNsYXNzIFJvdGF0aW9uU3BlZWRDb21wb25lbnQgOiBDb21wb25lbnREYXRhV3JhcHBlcjxSb3RhdGlvblNwZWVkPiB7fQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgRml4ZWRVcGRhdGUoKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybS5yb3RhdGlvbiA9IFJvdGF0aW9uU3BlZWQuVmFsdWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgVXBkYXRlKCkgewogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcK</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybS5yb3RhdGlvbiA9IDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgVW5pUnguVW5pdC4K</text>
+        <text encoding="base64">ICAgIHZhciByb3RhdGlvblNwZWVkID0gUm90YXRpb25TcGVlZENvbXBvbmVudC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
