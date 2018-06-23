@@ -105,16 +105,17 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/Trace.cs" timestamp="1529748739793">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="35" />
+      <file name="$USER_HOME$/nix/Assets/Code/Trace.cs" timestamp="1529755380687">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/TraceSystem.cs" timestamp="1529749057225">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/nix/Assets/Code/TraceSystem.cs" timestamp="1529755247808">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="10" column="42" />
       </file>
       <file name="$USER_HOME$/kessler-syndrome/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" timestamp="1529141963625">
         <mark key="'" line="60" column="66" />
@@ -307,41 +308,41 @@
       <jump line="26" column="12" filename="$USER_HOME$/kessler-syndrome/Assets/Code/Kepler.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Orbit</text>
+        <text>0</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cHVibGljIGNsYXNzIFJvdGF0aW9uU3BlZWRDb21wb25lbnQgOiBDb21wb25lbnREYXRhV3JhcHBlcjxSb3RhdGlvblNwZWVkPiB7fQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBpbnQgX2ZyYW1lc1BlclNlZ21lbnQgPSAyMDA7CiAgcHJpdmF0ZSBpbnQgX2ZyYW1lc1RvTmV4dFNlZ21lbnQgPSBfZnJhbWVzUGVyU2VnbWVudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIFRyYWNlIFRyYWNlOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYSA9IGVudGl0eS5PcmJpdC5TZW1pbWFqb3JBeGlzOwogICAgICAgIHZhciBlID0gZW50aXR5Lk9yYml0LkVjY2VudHJpY2l0eTsKICAgICAgICB2YXIgcCA9IGEgKiAoTWF0aGYuQ29zKHQpIC0gZSk7CiAgICAgICAgdmFyIHEgPSBhICogTWF0aGYuU2luKHQpICogTWF0aGYuU3FydCgxIC0gTWF0aGYuUG93KGUsIDIpKTsKICAgICAgICBlbnRpdHkuVHJhbnNmb3JtLnBvc2l0aW9uID0gbmV3IFZlY3RvcjMocCwgMCwgcSk7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
+        <text encoding="base64">dXNpbmcgVmVjdHJvc2l0eTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICAgIHB1YmxpYyBzdGF0aWMgVmVjdG9yMyBPcmlnaW4gPSBWZWN0b3IzLnplcm87Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICBwdWJsaWMgY2xhc3MgT3JiaXRTeXN0ZW0gOiBDb21wb25lbnRTeXN0ZW0gewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24KCXZvaWQgU3RhcnQgKCkgewoJCQoJfQoJCgkvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCgl2b2lkIFVwZGF0ZSAoKSB7CgkJCgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIiEiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50IAo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBwcm90ZWN0ZWQgdm9pZCBPblVwZGF0ZSgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsK</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -421,6 +422,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
