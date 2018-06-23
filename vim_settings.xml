@@ -105,7 +105,7 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/Trace.cs" timestamp="1529755380687">
+      <file name="$USER_HOME$/nix/Assets/Code/Trace.cs" timestamp="1529756749737">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
@@ -116,6 +116,11 @@
         <mark key="]" line="10" column="42" />
         <mark key="^" line="21" column="39" />
         <mark key="." line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/nix/Assets/Code/OrbitTraceSystem.cs" timestamp="1529756982377">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/kessler-syndrome/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ScenePlaybackDetector.cs" timestamp="1529141963625">
         <mark key="'" line="60" column="66" />
@@ -308,8 +313,8 @@
       <jump line="26" column="12" filename="$USER_HOME$/kessler-syndrome/Assets/Code/Kepler.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -318,31 +323,31 @@
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBpbnQgX2ZyYW1lc1BlclNlZ21lbnQgPSAyMDA7CiAgcHJpdmF0ZSBpbnQgX2ZyYW1lc1RvTmV4dFNlZ21lbnQgPSBfZnJhbWVzUGVyU2VnbWVudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgVmVjdHJvc2l0eTsK</text>
+        <text encoding="base64">ICBvbm92Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuCg==</text>
+        <text encoding="base64">ICAKICBwdWJsaWMgc3RhdGljIFZlY3RvcjMgT3JpZ2luID0gVmVjdG9yMy56ZXJvOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIiEiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUcmFuc2Zvcm0gVHJhbnNmb3JtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBwcm90ZWN0ZWQgdm9pZCBPblVwZGF0ZSgpIHsK</text>
+        <text encoding="base64">ICAgIGJhc2UuT25TdGFydFJ1bm5pbmcoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
