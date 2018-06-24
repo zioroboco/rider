@@ -118,11 +118,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/TraceSystem.cs" timestamp="1529755247808">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="10" column="42" />
+      <file name="$USER_HOME$/nix/Assets/Code/TraceSystem.cs" timestamp="1529839052122">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="20" column="60" />
       </file>
       <file name="$USER_HOME$/nix/Assets/Code/OrbitTraceSystem.cs" timestamp="1529759088667">
         <mark key="[" line="24" column="0" />
@@ -143,11 +143,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/OrbitSystem.cs" timestamp="1529830796286">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="12" column="7" />
+      <file name="$USER_HOME$/nix/Assets/Code/OrbitSystem.cs" timestamp="1529837710740">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="59" />
+        <mark key="." line="15" column="59" />
+        <mark key="^" line="15" column="59" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/_Limbo/Stream/Code/NucleonSpawner.cs" timestamp="1515484862012">
         <mark key="[" line="13" column="34" />
@@ -173,11 +173,11 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/Chronos.cs" timestamp="1529834599725">
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-        <mark key="^" line="29" column="8" />
+      <file name="$USER_HOME$/nix/Assets/Code/Chronos.cs" timestamp="1529837969577">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Components/DebugMessageComponent.cs" timestamp="1514508046644">
         <mark key="[" line="6" column="0" />
@@ -268,11 +268,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/LogTime.cs" timestamp="1529831288926">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="7" column="40" />
-        <mark key="^" line="7" column="73" />
+      <file name="$USER_HOME$/nix/Assets/Code/LogTime.cs" timestamp="1529838007426">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="4" />
       </file>
       <file name="$USER_HOME$/nix/Assets/Code/TraceOrbit.cs" timestamp="1529762237845">
         <mark key="[" line="2" column="0" />
@@ -374,40 +374,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlQYXVzZSwK</text>
+        <text encoding="base64">Ci8vICBvdmVycmlkZSBwcm90ZWN0ZWQgdm9pZCBPblVwZGF0ZSgpIHsKLy8gICAgCi8vICAgIF90aW1lVG9OZXh0U2VnbWVudC0tOwovLyAgICAKLy8gICAgaWYgKF90aW1lVG9OZXh0U2VnbWVudCA9PSAwKSB7Ci8vICAgICAgZm9yZWFjaCAodmFyIGVudGl0eSBpbiBHZXRFbnRpdGllczxHcm91cD4oKSkgewovLyAgICAgICAgZW50aXR5LlRyYWNlLlBvaW50cy5BZGQoZW50aXR5LlRyYW5zZm9ybS5wb3NpdGlvbik7Ci8vICAgICAgICBpZiAoZW50aXR5LlRyYWNlLlBvaW50cy5Db3VudCA+PSBlbnRpdHkuVHJhY2UuTWF4UG9pbnRzKSB7Ci8vICAgICAgICAgIGVudGl0eS5UcmFjZS5Qb2ludHMuUmVtb3ZlQXQoMCk7Ci8vICAgICAgICB9Ci8vICAgICAgICBlbnRpdHkuVHJhY2UuTGluZS5EcmF3M0QoKTsKLy8gICAgICB9Ci8vICAgICAgX3RpbWVUb05leHRTZWdtZW50ID0gX3RpbWVQZXJTZWdtZW50OwovLyAgICB9Ci8vICB9Ci8vfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMA==</text>
+        <text>transform.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgID8gQ2hyb25vcy5BY3Rpb24uRGVjcmVhc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVudGl0eS5UcmFjZS5Qb2ludHMuQWRkKGVudGl0eS5UcmFuc2Zvcm0ucG9zaXRpb24pOwogICAgICAgICAgaWYgKGVudGl0eS5UcmFjZS5Qb2ludHMuQ291bnQgPj0gZW50aXR5LlRyYWNlLk1heFBvaW50cykgewogICAgICAgICAgICBlbnRpdHkuVHJhY2UuUG9pbnRzLlJlbW92ZUF0KDApOwogICAgICAgICAgfQogICAgICAgICAgZW50aXR5LlRyYWNlLkxpbmUuRHJhdzNEKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlQYXVzZSwK</text>
+        <text encoding="base64">Ci8vICBvdmVycmlkZSBwcm90ZWN0ZWQgdm9pZCBPblVwZGF0ZSgpIHsKLy8gICAgCi8vICAgIF90aW1lVG9OZXh0U2VnbWVudC0tOwovLyAgICAKLy8gICAgaWYgKF90aW1lVG9OZXh0U2VnbWVudCA9PSAwKSB7Ci8vICAgICAgZm9yZWFjaCAodmFyIGVudGl0eSBpbiBHZXRFbnRpdGllczxHcm91cD4oKSkgewovLyAgICAgICAgZW50aXR5LlRyYWNlLlBvaW50cy5BZGQoZW50aXR5LlRyYW5zZm9ybS5wb3NpdGlvbik7Ci8vICAgICAgICBpZiAoZW50aXR5LlRyYWNlLlBvaW50cy5Db3VudCA+PSBlbnRpdHkuVHJhY2UuTWF4UG9pbnRzKSB7Ci8vICAgICAgICAgIGVudGl0eS5UcmFjZS5Qb2ludHMuUmVtb3ZlQXQoMCk7Ci8vICAgICAgICB9Ci8vICAgICAgICBlbnRpdHkuVHJhY2UuTGluZS5EcmF3M0QoKTsKLy8gICAgICB9Ci8vICAgICAgX3RpbWVUb05leHRTZWdtZW50ID0gX3RpbWVQZXJTZWdtZW50OwovLyAgICB9Ci8vICB9Ci8vfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlQYXVzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVudGl0eS5UcmFjZS5Qb2ludHMuQWRkKGVudGl0eS5UcmFuc2Zvcm0ucG9zaXRpb24pOwogICAgICAgICAgaWYgKGVudGl0eS5UcmFjZS5Qb2ludHMuQ291bnQgPj0gZW50aXR5LlRyYWNlLk1heFBvaW50cykgewogICAgICAgICAgICBlbnRpdHkuVHJhY2UuUG9pbnRzLlJlbW92ZUF0KDApOwogICAgICAgICAgfQogICAgICAgICAgZW50aXR5LlRyYWNlLkxpbmUuRHJhdzNEKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlQYXVzZSA9IDAsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgYm9vbCBfcGF1c2VkOwo=</text>
+        <text encoding="base64">CQlfZGVsdGEgPSBUaW1lLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCQovLwkJX3RpbWVTY2FsZSA9IDFkOwovLwkJX3BhdXNlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">CmludGVybmFsIHN0cnVjdCBUaWNrUGF5bG9hZCB7CglwdWJsaWMgZG91YmxlIFRpbWU7CglwdWJsaWMgZG91YmxlIERlbHRhVGltZTsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CglzdHJ1Y3QgVGlja1BheWxvYWQgewoJCWRvdWJsZSBUaW1lOwoJCWRvdWJsZSBEZWx0YVRpbWU7Cgl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoSW5wdXQuR2V0S2V5RG93bihLZXlDb2RlLkxlZnRCcmFja2V0KSkgewogICAgICAgIH0KICAgICAgICBpZiAoSW5wdXQuR2V0S2V5RG93bihLZXlDb2RlLlJpZ2h0QnJhY2tldCkpIHsKICAgICAgICAgIHJldHVybiBDaHJvbm9zLkFjdGlvbi5JbmNyZWFzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIENocm9ub3MuQWN0aW9uLlBhdXNlOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
