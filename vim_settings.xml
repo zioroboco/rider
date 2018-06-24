@@ -165,12 +165,12 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/Chronos.cs" timestamp="1529770015122">
+      <file name="$USER_HOME$/nix/Assets/Code/Chronos.cs" timestamp="1529818888866">
         <mark key="'" line="17" column="4" />
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="28" />
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Components/DebugMessageComponent.cs" timestamp="1514508046644">
         <mark key="[" line="6" column="0" />
@@ -344,7 +344,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9fQXBwbHlTZW1hbnRpY3MkY2FsbGFibGU5JDU1XzY2X18gCg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBUaW1lOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.AddTo(this)</text>
@@ -353,31 +353,31 @@
         <text encoding="base64">ICAgICAgICBJbnB1dC5HZXRLZXlEb3duKEtleUNvZGUuUmlnaHRCcmFja2V0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9fQXBwbHlTZW1hbnRpY3MkY2FsbGFibGU5JDU1XzY2X18gCg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBUaW1lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHJvdGVjdGVkIG92ZXJyaWRlIHZvaWQgT25TdGFydFJ1bm5pbmcoKSB7CiAgICB2YXIgY2hyb25vcyA9IENocm9ub3MuSW5zdGFuY2U7CiAgICBjaHJvbm9zLlRpY2suU3Vic2NyaWJlKHRpbWUgPT4gX3QgPSAoZmxvYXQpIHRpbWUgKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFZGl0b3IuUmVuZGVyaW5nOwo=</text>
+        <text encoding="base64">CQkJCVRpbWUgKz0gVW5pdHlFbmdpbmUuVGltZS5kZWx0YVRpbWUgKiBTY2FsZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBkb3VibGUgVGltZSB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
+        <text encoding="base64">CQl0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIF9fQXBwbHlTZW1hbnRpY3MkY2FsbGFibGU5JDU1XzY2X18gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgZG91YmxlIF90aW1lOwo=</text>
+        <text encoding="base64">CiAgcHJvdGVjdGVkIG92ZXJyaWRlIHZvaWQgT25TdGFydFJ1bm5pbmcoKSB7CiAgICB2YXIgY2hyb25vcyA9IENocm9ub3MuSW5zdGFuY2U7CiAgICBjaHJvbm9zLlRpY2suU3Vic2NyaWJlKHRpbWUgPT4gX3QgPSAoZmxvYXQpIHRpbWUgKTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB0ID0gQ2hyb25vcy5JbnN0YW5jZS5zYwo=</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFZGl0b3IuUmVuZGVyaW5nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CXB1YmxpYyBkb3VibGUgVGltZSB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
