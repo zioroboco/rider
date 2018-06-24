@@ -118,11 +118,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/TraceSystem.cs" timestamp="1529839052122">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="20" column="60" />
+      <file name="$USER_HOME$/nix/Assets/Code/TraceSystem.cs" timestamp="1529841580943">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/nix/Assets/Code/OrbitTraceSystem.cs" timestamp="1529759088667">
         <mark key="[" line="24" column="0" />
@@ -373,11 +373,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/nix/Assets/Code/Inputs.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vICBvdmVycmlkZSBwcm90ZWN0ZWQgdm9pZCBPblVwZGF0ZSgpIHsKLy8gICAgCi8vICAgIF90aW1lVG9OZXh0U2VnbWVudC0tOwovLyAgICAKLy8gICAgaWYgKF90aW1lVG9OZXh0U2VnbWVudCA9PSAwKSB7Ci8vICAgICAgZm9yZWFjaCAodmFyIGVudGl0eSBpbiBHZXRFbnRpdGllczxHcm91cD4oKSkgewovLyAgICAgICAgZW50aXR5LlRyYWNlLlBvaW50cy5BZGQoZW50aXR5LlRyYW5zZm9ybS5wb3NpdGlvbik7Ci8vICAgICAgICBpZiAoZW50aXR5LlRyYWNlLlBvaW50cy5Db3VudCA+PSBlbnRpdHkuVHJhY2UuTWF4UG9pbnRzKSB7Ci8vICAgICAgICAgIGVudGl0eS5UcmFjZS5Qb2ludHMuUmVtb3ZlQXQoMCk7Ci8vICAgICAgICB9Ci8vICAgICAgICBlbnRpdHkuVHJhY2UuTGluZS5EcmF3M0QoKTsKLy8gICAgICB9Ci8vICAgICAgX3RpbWVUb05leHRTZWdtZW50ID0gX3RpbWVQZXJTZWdtZW50OwovLyAgICB9Ci8vICB9Ci8vfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Invoke</text>
       </register>
       <register name="-" type="4">
-        <text>transform.</text>
+        <text>Invoke</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGVudGl0eS5UcmFjZS5Qb2ludHMuQWRkKGVudGl0eS5UcmFuc2Zvcm0ucG9zaXRpb24pOwogICAgICAgICAgaWYgKGVudGl0eS5UcmFjZS5Qb2ludHMuQ291bnQgPj0gZW50aXR5LlRyYWNlLk1heFBvaW50cykgewogICAgICAgICAgICBlbnRpdHkuVHJhY2UuUG9pbnRzLlJlbW92ZUF0KDApOwogICAgICAgICAgfQogICAgICAgICAgZW50aXR5LlRyYWNlLkxpbmUuRHJhdzNEKCk7Cg==</text>
