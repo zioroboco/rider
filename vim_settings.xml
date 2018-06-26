@@ -126,11 +126,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/Motion/MotilitySystem.cs" timestamp="1530002380863">
-        <mark key="[" line="58" column="52" />
-        <mark key="]" line="60" column="38" />
-        <mark key="." line="60" column="38" />
-        <mark key="^" line="60" column="38" />
+      <file name="$USER_HOME$/nix/Assets/Code/Motion/MotilitySystem.cs" timestamp="1530014356325">
+        <mark key="[" line="41" column="83" />
+        <mark key="]" line="41" column="83" />
+        <mark key="^" line="41" column="90" />
+        <mark key="." line="41" column="83" />
       </file>
       <file name="$USER_HOME$/nix/Assets/Code/TraceSystem.cs" timestamp="1529914635586">
         <mark key="[" line="4" column="44" />
@@ -174,12 +174,12 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/Motion/Kepler.cs" timestamp="1529934162059">
+      <file name="$USER_HOME$/nix/Assets/Code/Motion/Kepler.cs" timestamp="1530014720322">
         <mark key="'" line="29" column="2" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
       </file>
       <file name="$USER_HOME$/SpaceAndTime/Assets/_SpaceAndTime/Scripts/PositionLoop.cs" timestamp="1517449500776">
         <mark key="[" line="13" column="31" />
@@ -226,10 +226,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/Motion/Motility.cs" timestamp="1530001127185">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/nix/Assets/Code/Motion/Motility.cs" timestamp="1530013192373">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/nix/Assets/Code/TimeControl.cs" timestamp="1529831091053">
         <mark key="[" line="4" column="0" />
@@ -409,41 +410,41 @@
       <jump line="13" column="2" filename="$USER_HOME$/nix/Assets/Code/Motion/Kepler.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFyIGVsZW1lbnRzID0gZS5Nb3RpbGl0eS5FbGVtZW50czsK</text>
+      <register name="&quot;" type="4">
+        <text>Cross</text>
       </register>
       <register name="-" type="4">
-        <text>e.Motility.Elements</text>
+        <text>Cross</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZm9yZWFjaCAodmFyIGUgaW4gR2V0RW50aXRpZXM8R3JvdXA+KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIFZlbG9jaXR5ID0gKGxhc3RQb3NpdGlvbiAtIGUuVHJhbnNmb3JtLnBvc2l0aW9uKSAvIF9kdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFyIGVsZW1lbnRzID0gZS5Nb3RpbGl0eS5FbGVtZW50czsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSAobGFzdFBvc2l0aW9uIC0gZS5UcmFuc2Zvcm0ucG9zaXRpb24pIC8gX2R0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSBlLlRyYW5zZm9ybS5wb3NpdGlvbiAtIGxhc3RQb3NpdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZS5Nb3RpbGl0eS4K</text>
+        <text encoding="base64">CiAgICAgICAgZS5Nb3RpbGl0eS5PcmJpdFRpbWUgPSAwZjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgZmxvYXQgT3JiaXRUaW1lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGUuTW90aWxpdHkuT3JiaXRUaW1lICs9IF9kdDsKLy8gICAgICAgIHZhciB0ID0gZS5Nb3RpbGl0eS5PcmJpdFRpbWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbmV3RWxlbWVudHMgPSBLZXBsZXIuZWxlbWV0Cg==</text>
+        <text encoding="base64">Ly8vLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8vLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgVmVjdG9yMyBMYXN0UG9zaXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5Nb3RpbGl0eS5TdGF0ZVZlY3RvcnMuVmVsb2NpdHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5Nb3RpbGl0eS5TdGF0ZVZlY3RvcnMuUG9zaXRpb24sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -526,6 +527,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
