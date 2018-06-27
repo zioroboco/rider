@@ -181,6 +181,12 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
+      <file name="$USER_HOME$/nix/Assets/Nothing.cs" timestamp="1530096103519">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/SpaceAndTime/Assets/_SpaceAndTime/Scripts/PositionLoop.cs" timestamp="1517449500776">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="34" />
@@ -411,40 +417,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Cross</text>
+        <text>state</text>
       </register>
       <register name="-" type="4">
-        <text>Cross</text>
+        <text>state</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIFZlbG9jaXR5ID0gKGxhc3RQb3NpdGlvbiAtIGUuVHJhbnNmb3JtLnBvc2l0aW9uKSAvIF9kdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSAobGFzdFBvc2l0aW9uIC0gZS5UcmFuc2Zvcm0ucG9zaXRpb24pIC8gX2R0Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgb3ZlcnJpZGUgaW50IEdldEhhc2hDb2RlKCkgewogICAgcmV0dXJuIGJhc2UuR2V0SGFzaENvZGUoKTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSBlLlRyYW5zZm9ybS5wb3NpdGlvbiAtIGxhc3RQb3NpdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZS5Nb3RpbGl0eS5PcmJpdFRpbWUgPSAwZjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZmxvYXQgT3JiaXRUaW1lOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSAobGFzdFBvc2l0aW9uIC0gZS5UcmFuc2Zvcm0ucG9zaXRpb24pIC8gX2R0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGUuTW90aWxpdHkuT3JiaXRUaW1lICs9IF9kdDsKLy8gICAgICAgIHZhciB0ID0gZS5Nb3RpbGl0eS5PcmJpdFRpbWU7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSBlLlRyYW5zZm9ybS5wb3NpdGlvbiAtIGxhc3RQb3NpdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8vLwo=</text>
+        <text encoding="base64">CiAgICAgICAgZS5Nb3RpbGl0eS5PcmJpdFRpbWUgPSAwZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8vLwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgZmxvYXQgT3JiaXRUaW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5Nb3RpbGl0eS5TdGF0ZVZlY3RvcnMuVmVsb2NpdHkK</text>
+        <text encoding="base64">Ly8gICAgICAgIGUuTW90aWxpdHkuT3JiaXRUaW1lICs9IF9kdDsKLy8gICAgICAgIHZhciB0ID0gZS5Nb3RpbGl0eS5PcmJpdFRpbWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5Nb3RpbGl0eS5TdGF0ZVZlY3RvcnMuUG9zaXRpb24sCg==</text>
+        <text encoding="base64">Ly8vLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
