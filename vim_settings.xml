@@ -110,9 +110,12 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/nix/Assets/Code/Motion/OrbitSystem.cs" timestamp="1530000651264">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="27" column="31" />
+      <file name="$USER_HOME$/nix/Assets/Code/Motion/OrbitSystem.cs" timestamp="1530097359239">
+        <mark key="i" line="17" column="28" />
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="$USER_HOME$/nix/Assets/Code/Motion/MotileSystem.cs" timestamp="1529917121746">
         <mark key="[" line="21" column="0" />
@@ -417,40 +420,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text>blue</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>blue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZlbG9jaXR5ID0gKGxhc3RQb3NpdGlvbiAtIGUuVHJhbnNmb3JtLnBvc2l0aW9uKSAvIF9kdAo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Z0dyYXBoLkxvZyhlbnRpdHkuVHJhbnNmb3JtLnBvc2l0aW9uLngpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgb3ZlcnJpZGUgaW50IEdldEhhc2hDb2RlKCkgewogICAgcmV0dXJuIGJhc2UuR2V0SGFzaENvZGUoKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Z0dyYXBoLk11bHRpTG9nKCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LCBlbnRpdHkuVHJhbnNmb3JtLnBvc2l0aW9uLnopOwogICAgICAgIERlYnVnR3JhcGguTXVsdGlMb2coKTsKICAgICAgfQogICAgfSkuQWRkVG8oY2hyb25vcyk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Z0dyYXBoLkxvZyhlbnRpdHkuVHJhbnNmb3JtLnBvc2l0aW9uLngpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSAobGFzdFBvc2l0aW9uIC0gZS5UcmFuc2Zvcm0ucG9zaXRpb24pIC8gX2R0Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Z0dyYXBoLmxvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSBlLlRyYW5zZm9ybS5wb3NpdGlvbiAtIGxhc3RQb3NpdGlvbgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgb3ZlcnJpZGUgaW50IEdldEhhc2hDb2RlKCkgewogICAgcmV0dXJuIGJhc2UuR2V0SGFzaENvZGUoKTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgZS5Nb3RpbGl0eS5PcmJpdFRpbWUgPSAwZjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZmxvYXQgT3JiaXRUaW1lOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGUuTW90aWxpdHkuT3JiaXRUaW1lICs9IF9kdDsKLy8gICAgICAgIHZhciB0ID0gZS5Nb3RpbGl0eS5PcmJpdFRpbWU7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSAobGFzdFBvc2l0aW9uIC0gZS5UcmFuc2Zvcm0ucG9zaXRpb24pIC8gX2R0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8vLwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgVmVsb2NpdHkgPSBlLlRyYW5zZm9ybS5wb3NpdGlvbiAtIGxhc3RQb3NpdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
