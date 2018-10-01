@@ -112,12 +112,11 @@
         <mark key="^" line="59" column="47" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Demo/Assets/SomeBehaviour.cs" timestamp="1538387938176">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="11" />
+      <file name="$USER_HOME$/Demo/Assets/SomeBehaviour.cs" timestamp="1538389271518">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/nix/Assets/Code/EntityManager.cs" timestamp="1529232910109">
         <mark key="[" line="5" column="23" />
@@ -429,40 +428,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMyByOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsK</text>
+        <text encoding="base64">CQl7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoZmFsc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgkvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCgl2b2lkIFVwZGF0ZSAoKSB7CgoJfQp9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Z0dyYXBoLk11bHRpTG9nKCk7Cg==</text>
+        <text encoding="base64">CgkvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCgl2b2lkIFVwZGF0ZSAoKSB7CgoJfQp9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LCBlbnRpdHkuVHJhbnNmb3JtLnBvc2l0aW9uLnopOwogICAgICAgIERlYnVnR3JhcGguTXVsdGlMb2coKTsKICAgICAgfQogICAgfSkuQWRkVG8oY2hyb25vcyk7CiAgfQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
