@@ -312,12 +312,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Polar/Tests/Coords.Tests.cs" timestamp="1555216195909">
-        <mark key="[" line="88" column="20" />
-        <mark key="]" line="88" column="23" />
-        <mark key="." line="88" column="23" />
-        <mark key="^" line="88" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/Systems/DingSystem.cs" timestamp="1514438052334">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="48" />
@@ -444,14 +438,14 @@
       <jump line="14" column="0" filename="$USER_HOME$/Demo/Assets/SomeBehaviour.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Constructor_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBGcm9tV29ybGRWZWN0b3IoKSB7CiAgICAgICAgICAgIHZhciBleHBlY3RlZCA9IG5ldyBjb29yZHMoMmQsIG1hdGguUEkgLyAyZCk7CiAgICAgICAgICAgIHZhciBhY3R1YWwgPSBuZXcgY29vcmRzKG5ldyBkb3VibGUyKDBkLCAyZCkpOwogICAgICAgICAgICBBc3NlcnQuQXJlRXF1YWwoZXhwZWN0ZWQuciwgYWN0dWFsLnIsIHRvbGVyYW5jZSk7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChleHBlY3RlZC50aGV0YSwgYWN0dWFsLnRoZXRhLCB0b2xlcmFuY2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>Constructor_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMyByOwo=</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBGcm9tV29ybGRWZWN0b3IoKSB7CiAgICAgICAgICAgIHZhciBleHBlY3RlZCA9IG5ldyBjb29yZHMoMmQsIG1hdGguUEkgLyAyZCk7CiAgICAgICAgICAgIHZhciBhY3R1YWwgPSBuZXcgY29vcmRzKG5ldyBkb3VibGUyKDBkLCAyZCkpOwogICAgICAgICAgICBBc3NlcnQuQXJlRXF1YWwoZXhwZWN0ZWQuciwgYWN0dWFsLnIsIHRvbGVyYW5jZSk7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChleHBlY3RlZC50aGV0YSwgYWN0dWFsLnRoZXRhLCB0b2xlcmFuY2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgQ29uc3RydWN0b3JfV29ybGRWZWN0b3IoKSB7CiAgICAgICAgICAgIHZhciBleHBlY3RlZCA9IG5ldyBjb29yZHMoMmQsIG1hdGguUEkgLyAyZCk7CiAgICAgICAgICAgIHZhciBhY3R1YWwgPSBuZXcgY29vcmRzKG5ldyBkb3VibGUyKDBkLCAyZCkpOwogICAgICAgICAgICBBc3NlcnQuQXJlRXF1YWwoZXhwZWN0ZWQuciwgYWN0dWFsLnIsIHRvbGVyYW5jZSk7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChleHBlY3RlZC50aGV0YSwgYWN0dWFsLnRoZXRhLCB0b2xlcmFuY2UpOwogICAgICAgIH0KCiAgICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgQ29uc3RydWN0b3JfUG9sYXJWZWN0b3IoKSB7CiAgICAgICAgICAgIHZhciB2ID0gbmV3IGRvdWJsZTIoMWQsIC0xZCk7CiAgICAgICAgICAgIHZhciBwcmV2ID0gbmV3IGNvb3JkcygxZCwgbWF0aC5QSSAvIDJkKTsKICAgICAgICAgICAgdmFyIGV4cGVjdGVkID0gbmV3IGNvb3JkcygxZCwgbWF0aC5QSSk7CiAgICAgICAgICAgIHZhciBhY3R1YWwgPSBuZXcgY29vcmRzKHYsIHByZXYpOwogICAgICAgICAgICBBc3NlcnQuQXJlRXF1YWwoZXhwZWN0ZWQuciwgYWN0dWFsLnIsIHRvbGVyYW5jZSk7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChleHBlY3RlZC50aGV0YSwgYWN0dWFsLnRoZXRhLCB0b2xlcmFuY2UpOwogICAgICAgIH0K</text>
