@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Particle.cs" timestamp="1555214549257">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Particle.cs" timestamp="1555320165543">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Limbo/Assets/Code/ControllerDebugInput.cs" timestamp="1518251488364">
         <mark key="[" line="3" column="23" />
@@ -238,6 +239,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Newtonian/Vectors.cs" timestamp="1555320192010">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/Limbo/Assets/Code/ControllerScrub.cs" timestamp="1518257060738">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="34" />
@@ -321,16 +328,23 @@
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Coords.cs" timestamp="1555319893698">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Coords.cs" timestamp="1555320310743">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+        <mark key="^" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Clock.cs" timestamp="1555214173525">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Newtonian/Newton.cs" timestamp="1555320176661">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/UniRxCharacter/Assets/PlayerController.cs" timestamp="1526205959402">
         <mark key="[" line="24" column="26" />
@@ -373,11 +387,11 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Coords.Tests.cs" timestamp="1555319943822">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="1" column="11" />
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Coords.Tests.cs" timestamp="1555320099466">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
@@ -456,41 +470,41 @@
       <jump line="7" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Polar/Tests/Coords.Tests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7CnVzaW5nIFVuaXR5RW5naW5lLlRlc3RUb29sczsK</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>Polar</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgVXBkYXRlKCkgewogICAgICAgICAgICB2YXIgcG9zID0gbmV3IGNvb3JkcygyZCwgLW1hdGguUEkgLyAyZCk7CiAgICAgICAgICAgIHZhciB2X3BvbGFyID0gbmV3IGRvdWJsZTIoLTJkLCAtMmQpOwogICAgICAgICAgICB2YXIgZXhwZWN0ZWQgPSBuZXcgY29vcmRzKDJkLCBtYXRoLlBJKTsKICAgICAgICAgICAgdmFyIGFjdHVhbCA9IHBvcy5VcGRhdGUodl9wb2xhcik7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChleHBlY3RlZC5yLCBhY3R1YWwuciwgdG9sZXJhbmNlKTsKICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKAogICAgICAgICAgICAgICAgY29vcmRzLm5vcm1hbGl6ZUFuZ2xlKGV4cGVjdGVkLnRoZXRhKSwKICAgICAgICAgICAgICAgIGNvb3Jkcy5ub3JtYWxpemVBbmdsZShhY3R1YWwudGhldGEpLAogICAgICAgICAgICAgICAgdG9sZXJhbmNlCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7CnVzaW5nIFVuaXR5RW5naW5lLlRlc3RUb29sczsK</text>
+        <text encoding="base64">dXNpbmcgU3BhY2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3BhY2U7CnVzaW5nIFVuaXR5Owo=</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7CnVzaW5nIFVuaXR5RW5naW5lLlRlc3RUb29sczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLy8gPHN1bW1hcnk+VGhlIG9yaWdpbiBhcyBwb2xhciBjb29yZGluYXRlcyAod2l0aCB0aGV0YSA9IDApLjwvc3VtbWFyeT4KICAgIHB1YmxpYyBzdGF0aWMgcmVhZG9ubHkgY29vcmRzIHplcm87Cg==</text>
+        <text encoding="base64">dXNpbmcgU3BhY2U7CnVzaW5nIFVuaXR5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLy8gPHN1bW1hcnk+VGhlIG9yaWdpbiBhcyBwb2xhciBjb29yZGluYXRlcyAod2l0aCB0aGV0YSA9IDApLjwvc3VtbWFyeT4KICAgIHB1YmxpYyBzdGF0aWMgcmVhZG9ubHkgY29vcmRzIHplcm87Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBbTWV0aG9kSW1wbChNZXRob2RJbXBsT3B0aW9ucy5BZ2dyZXNzaXZlSW5saW5pbmcpXQogICAgcHVibGljIGRvdWJsZTIgUmVsYXRpdmVUb1dvcmxkVmVjdG9yKGRvdWJsZTIgd29ybGQpIHsKICAgICAgcmV0dXJuIGRvdWJsZTIuemVybzsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuSW50ZXJvcFNlcnZpY2VzOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CiAgICBbTWV0aG9kSW1wbChNZXRob2RJbXBsT3B0aW9ucy5BZ2dyZXNzaXZlSW5saW5pbmcpXQogICAgcHVibGljIGRvdWJsZTIgUmVsYXRpdmVUb1dvcmxkVmVjdG9yKGRvdWJsZTIgd29ybGQpIHsKICAgICAgcmV0dXJuIGRvdWJsZTIuemVybzsKICAgIH0K</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuSW50ZXJvcFNlcnZpY2VzOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBbTWV0aG9kSW1wbChNZXRob2RJbXBsT3B0aW9ucy5BZ2dyZXNzaXZlSW5saW5pbmcpXQogICAgcHVibGljIGRvdWJsZTIgUmVsYXRpdmVUb1dvcmxkVmVjdG9yKGRvdWJsZTIgd29ybGQpIHsKICAgICAgcmV0dXJuIGRvdWJsZTIuemVybzsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
