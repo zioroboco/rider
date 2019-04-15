@@ -38,6 +38,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Angle.cs" timestamp="1555324467019">
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="35" />
+        <mark key="^" line="39" column="35" />
+      </file>
       <file name="$USER_HOME$/Limbo/Assets/Limbo/Field/Field.cs" timestamp="1515476405037">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -64,6 +70,12 @@
         <mark key="]" line="27" column="44" />
         <mark key="." line="27" column="44" />
         <mark key="^" line="27" column="44" />
+      </file>
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Angle.Tests.cs" timestamp="1555324839757">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="72" column="32" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
       </file>
       <file name="$USER_HOME$/nix/Assets/Code/Motion/OrbitSystem.cs" timestamp="1530097359239">
         <mark key="i" line="17" column="28" />
@@ -147,6 +159,13 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Coordinates.cs" timestamp="1555323339268">
+        <mark key="'" line="93" column="37" />
+        <mark key="[" line="93" column="33" />
+        <mark key="]" line="93" column="37" />
+        <mark key="^" line="93" column="37" />
+        <mark key="." line="93" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/_limbo/GameController.cs" timestamp="1514439269283">
         <mark key="[" line="2" column="0" />
@@ -328,11 +347,11 @@
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Coords.cs" timestamp="1555320310743">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="10" />
-        <mark key="." line="22" column="10" />
-        <mark key="^" line="22" column="10" />
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Coords.cs" timestamp="1555320801523">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Clock.cs" timestamp="1555214173525">
         <mark key="[" line="8" column="3" />
@@ -375,6 +394,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Coordinates.Tests.cs" timestamp="1555323603246">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/Libraries/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" timestamp="1514622910798">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -387,11 +412,11 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Coords.Tests.cs" timestamp="1555320099466">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Coords.Tests.cs" timestamp="1555320707177">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/limbo/Assets/DebugTest.cs" timestamp="1514435473414">
         <mark key="[" line="6" column="0" />
@@ -468,43 +493,52 @@
       <jump line="293" column="44" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Polar/Tests/Coords.Tests.cs" />
       <jump line="299" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Polar/Tests/Coords.Tests.cs" />
       <jump line="7" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Polar/Tests/Coords.Tests.cs" />
+      <jump line="131" column="18" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Coords.cs" />
+      <jump line="181" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Coords.cs" />
+      <jump line="75" column="14" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Angle.cs" />
+      <jump line="83" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Angle.cs" />
+      <jump line="10" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Angle.cs" />
+      <jump line="93" column="37" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Coordinates.cs" />
+      <jump line="13" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Angle.Tests.cs" />
+      <jump line="68" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Angle.Tests.cs" />
+      <jump line="21" column="0" filename="$USER_HOME$/zioroboco/Theatrum/Assets/Code/Space/Tests/Angle.Tests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgVXBkYXRlKCkgewogICAgICAgICAgICB2YXIgcG9zID0gbmV3IGNvb3JkcygyZCwgLW1hdGguUEkgLyAyZCk7CiAgICAgICAgICAgIHZhciB2X3BvbGFyID0gbmV3IGRvdWJsZTIoLTJkLCAtMmQpOwogICAgICAgICAgICB2YXIgZXhwZWN0ZWQgPSBuZXcgY29vcmRzKDJkLCBtYXRoLlBJKTsKICAgICAgICAgICAgdmFyIGFjdHVhbCA9IHBvcy5VcGRhdGUodl9wb2xhcik7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChleHBlY3RlZC5yLCBhY3R1YWwuciwgdG9sZXJhbmNlKTsKICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKAogICAgICAgICAgICAgICAgY29vcmRzLm5vcm1hbGl6ZUFuZ2xlKGV4cGVjdGVkLnRoZXRhKSwKICAgICAgICAgICAgICAgIGNvb3Jkcy5ub3JtYWxpemVBbmdsZShhY3R1YWwudGhldGEpLAogICAgICAgICAgICAgICAgdG9sZXJhbmNlCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBGcm9tVmVjdG9yc19QaU9uVHdvKCkgewogICAgICAgICAgICB2YXIgYWN0dWFsID0gbmV3IGFuZ2xlKGEsIGIpOwogICAgICAgICAgICB2YXIgZXhwZWN0ZWQgPSBuZXcgYW5nbGUobWF0aC5QSSAvIDJkKTsKICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKGV4cGVjdGVkLnJhZGlhbnMsIGFjdHVhbC5yYWRpYW5zLCB0b2xlcmFuY2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3BhY2U7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgRnJvbVZlY3RvcnNfUGlPblR3b19TaWduZWQoKSB7CiAgICAgICAgICAgIHZhciBhY3R1YWwgPSBuZXcgYW5nbGUoYiwgYSk7CiAgICAgICAgICAgIHZhciBleHBlY3RlZCA9IG5ldyBhbmdsZSgtbWF0aC5QSSAvIDJkKTsKICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKGV4cGVjdGVkLnJhZGlhbnMsIGFjdHVhbC5yYWRpYW5zLCB0b2xlcmFuY2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7CnVzaW5nIFVuaXR5RW5naW5lLlRlc3RUb29sczsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3BhY2U7CnVzaW5nIFVuaXR5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvLy8gPHN1bW1hcnk+VGhlIG9yaWdpbiBhcyBwb2xhciBjb29yZGluYXRlcyAod2l0aCB0aGV0YSA9IDApLjwvc3VtbWFyeT4KICAgIHB1YmxpYyBzdGF0aWMgcmVhZG9ubHkgY29vcmRzIHplcm87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoZXhwZWN0ZWQsICk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBbTWV0aG9kSW1wbChNZXRob2RJbXBsT3B0aW9ucy5BZ2dyZXNzaXZlSW5saW5pbmcpXQogICAgcHVibGljIGRvdWJsZTIgUmVsYXRpdmVUb1dvcmxkVmVjdG9yKGRvdWJsZTIgd29ybGQpIHsKICAgICAgcmV0dXJuIGRvdWJsZTIuemVybzsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGRvdWJsZSBhY3R1YWwgPSBjb29yZGluYXRlcy5ub3JtYWxpemVBbmdsZSg3ZCAqIG1hdGguUEkgLyAyZCk7CiAgICAgICAgICAgIGRvdWJsZSBleHBlY3RlZCA9IC1tYXRoLlBJIC8gMmQ7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChleHBlY3RlZCwgYWN0dWFsLCB0b2xlcmFuY2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuSW50ZXJvcFNlcnZpY2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGRvdWJsZSBhY3R1YWwgPSBjb29yZGluYXRlcy5ub3JtYWxpemVBbmdsZSgtNWQgKiBtYXRoLlBJIC8gMmQpOwogICAgICAgICAgICBkb3VibGUgZXhwZWN0ZWQgPSAtbWF0aC5QSSAvIDJkOwogICAgICAgICAgICBBc3NlcnQuQXJlRXF1YWwoZXhwZWN0ZWQsIGFjdHVhbCwgdG9sZXJhbmNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGRvdWJsZSBhY3R1YWwgPSBjb29yZGluYXRlcy5ub3JtYWxpemVBbmdsZSg1ZCAqIG1hdGguUEkgLyAyZCk7CiAgICAgICAgICAgIGRvdWJsZSBleHBlY3RlZCA9IG1hdGguUEkgLyAyZDsKICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKGV4cGVjdGVkLCBhY3R1YWwsIHRvbGVyYW5jZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBbTWV0aG9kSW1wbChNZXRob2RJbXBsT3B0aW9ucy5BZ2dyZXNzaXZlSW5saW5pbmcpXQogICAgcHVibGljIGRvdWJsZTIgUmVsYXRpdmVUb1dvcmxkVmVjdG9yKGRvdWJsZTIgd29ybGQpIHsKICAgICAgcmV0dXJuIGRvdWJsZTIuemVybzsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGRvdWJsZSBhY3R1YWwgPSBjb29yZGluYXRlcy5ub3JtYWxpemVBbmdsZSgtM2QgKiBtYXRoLlBJIC8gMmQpOwogICAgICAgICAgICBkb3VibGUgZXhwZWN0ZWQgPSBtYXRoLlBJIC8gMmQ7CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChleHBlY3RlZCwgYWN0dWFsLCB0b2xlcmFuY2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
