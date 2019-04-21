@@ -21,7 +21,6 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="EditorTab" />
-  <action id="EditorUnindentSelection" />
   <action id="ExpandLiveTemplateByTab" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -50,7 +49,15 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta n" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NextTab" />
   <action id="SearchEverywhere.PrevTab" />
+  <action id="Vcs.Log.Refresh" />
 </keymap>
