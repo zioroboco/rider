@@ -4,6 +4,7 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="BraceOrQuoteOut" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
@@ -22,9 +23,14 @@
   </action>
   <action id="EditorTab" />
   <action id="ExpandLiveTemplateByTab" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="NextOccurence" />
   <action id="NextParameter" />
@@ -37,6 +43,7 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousOccurence" />
@@ -59,5 +66,6 @@
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NextTab" />
   <action id="SearchEverywhere.PrevTab" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="Vcs.Log.Refresh" />
 </keymap>
